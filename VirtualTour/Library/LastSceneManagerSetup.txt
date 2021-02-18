@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/TitleScene.unity
+=======
+- path: Assets/Scenes/RoomScene.unity
+>>>>>>> origin/modeling
   isLoaded: 1
   isActive: 1
   isSubScene: 0
