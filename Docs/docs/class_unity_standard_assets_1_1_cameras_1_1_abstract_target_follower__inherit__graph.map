@@ -1,0 +1,10 @@
+<map id="UnityStandardAssets.Cameras.AbstractTargetFollower" name="UnityStandardAssets.Cameras.AbstractTargetFollower">
+<area shape="rect" id="node1" title=" " alt="" coords="164,71,369,112"/>
+<area shape="rect" id="node3" href="$class_unity_standard_assets_1_1_cameras_1_1_lookat_target.html" title=" " alt="" coords="417,5,623,47"/>
+<area shape="rect" id="node5" href="$class_unity_standard_assets_1_1_cameras_1_1_pivot_based_camera_rig.html" title=" " alt="" coords="417,71,623,112"/>
+<area shape="rect" id="node8" href="$class_unity_standard_assets_1_1_cameras_1_1_target_field_of_view.html" title=" " alt="" coords="417,136,623,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,78,116,105"/>
+<area shape="rect" id="node4" href="$class_unity_standard_assets_1_1_cameras_1_1_hand_held_cam.html" title=" " alt="" coords="671,5,876,47"/>
+<area shape="rect" id="node6" href="$class_unity_standard_assets_1_1_cameras_1_1_auto_cam.html" title=" " alt="" coords="671,71,876,112"/>
+<area shape="rect" id="node7" href="$class_unity_standard_assets_1_1_cameras_1_1_free_look_cam.html" title=" " alt="" coords="671,136,876,177"/>
+</map>

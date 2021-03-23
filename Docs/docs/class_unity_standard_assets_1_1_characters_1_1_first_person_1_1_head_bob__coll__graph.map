@@ -1,0 +1,10 @@
+<map id="UnityStandardAssets.Characters.FirstPerson.HeadBob" name="UnityStandardAssets.Characters.FirstPerson.HeadBob">
+<area shape="rect" id="node1" title=" " alt="" coords="940,99,1156,141"/>
+<area shape="rect" id="node2" title=" " alt="" coords="88,5,199,32"/>
+<area shape="rect" id="node5" href="$class_unity_standard_assets_1_1_characters_1_1_first_person_1_1_rigidbody_first_person_controller.html" title=" " alt="" coords="441,66,713,107"/>
+<area shape="rect" id="node3" href="$class_unity_standard_assets_1_1_utility_1_1_lerp_controlled_bob.html" title=" " alt="" coords="484,131,671,173"/>
+<area shape="rect" id="node4" href="$class_unity_standard_assets_1_1_utility_1_1_curve_controlled_bob.html" title=" " alt="" coords="484,197,671,238"/>
+<area shape="rect" id="node6" href="$class_unity_standard_assets_1_1_characters_1_1_first_person_1_1_rigidbody_first_person_controller_1_1_movement_settings.html" title=" " alt="" coords="5,57,281,113"/>
+<area shape="rect" id="node7" href="$class_unity_standard_assets_1_1_characters_1_1_first_person_1_1_mouse_look.html" title=" " alt="" coords="35,138,251,179"/>
+<area shape="rect" id="node8" href="$class_unity_standard_assets_1_1_characters_1_1_first_person_1_1_rigidbody_first_person_controller_1_1_advanced_settings.html" title=" " alt="" coords="5,204,281,260"/>
+</map>

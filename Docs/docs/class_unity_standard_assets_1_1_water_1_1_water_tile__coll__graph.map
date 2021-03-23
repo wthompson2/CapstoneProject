@@ -1,0 +1,6 @@
+<map id="UnityStandardAssets.Water.WaterTile" name="UnityStandardAssets.Water.WaterTile">
+<area shape="rect" id="node1" title=" " alt="" coords="467,25,655,67"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,33,116,59"/>
+<area shape="rect" id="node3" href="$class_unity_standard_assets_1_1_water_1_1_planar_reflection.html" title=" " alt="" coords="165,25,353,67"/>
+<area shape="rect" id="node4" href="$class_unity_standard_assets_1_1_water_1_1_water_base.html" title=" " alt="" coords="165,91,353,132"/>
+</map>
