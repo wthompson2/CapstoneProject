@@ -9,12 +9,31 @@ namespace VirtualTour
     {
         [SerializeField]
         private string _movieFilename;
-
+        public bool trigger;
+        private bool playing = false; 
         private void Start()
         {
-            StartCoroutine(PlayMovie(_movieFilename));
+            if (!trigger)
+            {
+                StartCoroutine(PlayMovie(_movieFilename));
+                playing = true;
+            }
         }
 
+        private void Update()
+        {
+            
+        }
+
+        private void OnTriggerEnter(Collider collision)
+        {
+            if (!playing)
+            {
+                Debug.Log("we be colliding 8)\n");
+                StartCoroutine(PlayMovie(_movieFilename));
+                playing = true;
+            }
+        }
         /// <summary>
         /// Stream the specified video.
         /// </summary>
