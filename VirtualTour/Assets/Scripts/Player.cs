@@ -33,6 +33,16 @@ namespace VirtualTour
                 StartCoroutine(PlayMovie(_movieFilename));
                 playing = true;
             }
+           else if(playing)
+            {
+                VideoPlayer videoPlayer = GetComponent<VideoPlayer>();
+                if (videoPlayer)
+                {
+                    Debug.Log("we are in here"); 
+                    videoPlayer.Stop();
+                    playing = false; 
+                }    
+            }
         }
         /// <summary>
         /// Stream the specified video.
