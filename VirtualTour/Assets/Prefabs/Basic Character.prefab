@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lookAt: {fileID: 5175194346171975061}
-  zoomSensitivity: 10
+  zoomSensitivity: 5
 --- !u!1 &5175194346171975146
 GameObject:
   m_ObjectHideFlags: 0
@@ -643,7 +643,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 621e901dcf5ebaf46bce29d18f67194c, type: 2}
+  - {fileID: 2100000, guid: 130370b8a5e2fc346b06f866f209d149, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2590,7 +2590,7 @@ GameObject:
   - component: {fileID: 5175194346432171286}
   - component: {fileID: 5175194346432146738}
   m_Layer: 0
-  m_Name: ThirdPersonController
+  m_Name: Basic Character
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2605,7 +2605,7 @@ Transform:
   m_GameObject: {fileID: 5175194346422527600}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.0192986, y: -1.5100003, z: -1.4139652}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalScale: {x: 3.5, y: 3.5, z: 3.5}
   m_Children:
   - {fileID: 5175194346422174936}
   - {fileID: 5175194346422156874}
