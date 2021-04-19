@@ -2,5 +2,6 @@
 {
     Title,
     Help,
+    Character,
     Play
 }

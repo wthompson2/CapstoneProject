@@ -16,23 +16,27 @@ public class RespondToButtonClicks : MonoBehaviour
         SceneController.GoToMenu(MenuName.Help);
     }
 
+    public void HandleCharacterButtonOnClickEvent()
+    {
+        UnityEngine.Debug.Log("Character button has been clicked.");
+        SceneController.GoToMenu(MenuName.Character);
+    }
+
     public void HandlePlayButtonOnClickEvent()
     {
         UnityEngine.Debug.Log("Play button has been clicked.");
         SceneController.GoToMenu(MenuName.Play);
-        // GameObject.FindGameObjectWithTag("TitleTheme").GetComponent<Music>().StopMusic();
     }
 
     public void HandleQuitButtonOnClickEvent()
     {
         UnityEngine.Debug.Log("Quit button has been clicked.");
         SceneController.GoToMenu(MenuName.Title);
-        // GameObject.FindGameObjectWithTag("EndTheme").GetComponent<Music>().StopMusic();
     }
 
-    public void HandleEndButtonOnClickEvent()
-    {
-        UnityEngine.Debug.Log("Quit button has been clicked.");
-        Application.Quit();
-    }
+    // public void HandleEndButtonOnClickEvent()
+    // {
+    //     UnityEngine.Debug.Log("Quit button has been clicked.");
+    //     Application.Quit();
+    // }
 }

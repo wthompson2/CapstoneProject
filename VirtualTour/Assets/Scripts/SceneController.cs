@@ -38,8 +38,12 @@ public static class SceneController
             //     SceneManager.LoadScene("PauseScene");
             //     break;
 
+            case MenuName.Character:
+                SceneManager.LoadScene("CharacterSelectScene");
+                break;
+
             case MenuName.Play:
-                SceneManager.LoadScene("ClassroomScene"); //change to actual name of level later
+                SceneManager.LoadScene("PKIScene");
                 break;
         }
     }
