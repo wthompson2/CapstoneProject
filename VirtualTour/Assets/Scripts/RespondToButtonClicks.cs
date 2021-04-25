@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class RespondToButtonClicks : MonoBehaviour
 {
+    private static int characterSelection = 0;
+
     public void HandleBackButtonOnClickEvent()
     {
         UnityEngine.Debug.Log("Back button has been clicked.");
         SceneController.GoToMenu(MenuName.Title);
-;    }
+    }
 
     public void HandleHelpButtonOnClickEvent()
     {
@@ -32,6 +34,38 @@ public class RespondToButtonClicks : MonoBehaviour
     {
         UnityEngine.Debug.Log("Quit button has been clicked.");
         SceneController.GoToMenu(MenuName.Title);
+    }
+
+    // Select button clicks
+    public void HandleSelect1ButtonOnClickEvent()
+    {
+        UnityEngine.Debug.Log("Select1 button has been clicked.");
+        characterSelection = 1;
+    }
+
+    public void HandleSelect2ButtonOnClickEvent()
+    {
+        UnityEngine.Debug.Log("Select2 button has been clicked.");
+        characterSelection = 2;
+    }
+
+    public void HandleSelect3ButtonOnClickEvent()
+    {
+        UnityEngine.Debug.Log("Select3 button has been clicked.");
+        characterSelection = 3;
+    }
+
+    public void HandleSelect4ButtonOnClickEvent()
+    {
+        UnityEngine.Debug.Log("Select4 button has been clicked.");
+        characterSelection = 4;
+    }
+
+
+    // CharacterSelection getter method
+    public static int getCharacterSelection()
+    {
+        return characterSelection;
     }
 
     // public void HandleEndButtonOnClickEvent()
