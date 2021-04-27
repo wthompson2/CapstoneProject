@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     private float jumpHeight = 3.0f;
     private Vector3 playerVelocity;
     private bool grounded;
-    private PlayerMovementInfo playerMovement;
+    private PlayerMovementInfo playerMovementInfo;
 
     void Start()
     {
@@ -25,9 +25,9 @@ public class PlayerMovement : MonoBehaviour
         characterController = GetComponent<CharacterController>();
         characterController.minMoveDistance = 0.0f; // needed to fix isGrounded instability
 
-        playerMovement = new PlayerMovementInfo();
-        playerMovement.baseSpeed = baseSpeed;
-        playerMovement.runningAmplifier = runningAmplifier;
+        playerMovementInfo = new PlayerMovementInfo();
+        playerMovementInfo.baseSpeed = baseSpeed;
+        playerMovementInfo.runningAmplifier = runningAmplifier;
 
         if (lockCursor)
         {
@@ -63,11 +63,11 @@ public class PlayerMovement : MonoBehaviour
         RotatePlayerWithCamera();
 
         // Changes the height position of the player..
-        if (Input.GetButtonDown("Jump") && grounded)
-        {
-            Debug.Log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>JUMP");
-            playerVelocity.y += Mathf.Sqrt(jumpHeight * -3.0f * gravity);
-        }
+        // if (Input.GetButtonDown("Jump") && grounded)
+        // {
+        //     Debug.Log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>JUMP");
+        //     playerVelocity.y += Mathf.Sqrt(jumpHeight * -3.0f * gravity);
+        // }
 
         playerVelocity.y += gravity * Time.deltaTime;
         characterController.Move(playerVelocity * Time.deltaTime);
@@ -79,31 +79,31 @@ public class PlayerMovement : MonoBehaviour
 
         if (characterController.isGrounded)
         {
-            playerMovement.leftAndRight = Input.GetAxis("Horizontal"); // A and D
-            playerMovement.forwardAndBackward = Input.GetAxis("Vertical"); // W and S. Range -1...1
+            playerMovementInfo.leftAndRight = Input.GetAxis("Horizontal"); // A and D
+            playerMovementInfo.forwardAndBackward = Input.GetAxis("Vertical"); // W and S. Range -1...1
 
-            playerMovement.jump = Input.GetButtonDown("Jump");
+            // playerMovementInfo.jump = Input.GetButtonDown("Jump");
 
 
-            playerMovement.movingForwards = playerMovement.forwardAndBackward > 0.0f;
-            playerMovement.movingBackwards = playerMovement.forwardAndBackward < 0.0f;
+            playerMovementInfo.movingForwards = playerMovementInfo.forwardAndBackward > 0.0f;
+            playerMovementInfo.movingBackwards = playerMovementInfo.forwardAndBackward < 0.0f;
 
-            bool running = (playerMovement.movingForwards && Input.GetKey(KeyCode.LeftControl))
+            bool running = (playerMovementInfo.movingForwards && Input.GetKey(KeyCode.LeftShift))
                            ||
-                           (!playerMovement.movingBackwards
+                           (!playerMovementInfo.movingBackwards
                              &&
-                             (playerMovement.leftAndRight > 0.0f || playerMovement.leftAndRight < 0.0f)
+                             (playerMovementInfo.leftAndRight > 0.0f || playerMovementInfo.leftAndRight < 0.0f)
                            );
 
             if (running)
             {
-                playerMovement.speed = playerMovement.baseSpeed * playerMovement.runningAmplifier;
+                playerMovementInfo.speed = playerMovementInfo.baseSpeed * playerMovementInfo.runningAmplifier;
             }
             else
             {
-                playerMovement.speed = playerMovement.baseSpeed;
+                playerMovementInfo.speed = playerMovementInfo.baseSpeed;
 
-                playerMovement.forwardAndBackward = playerMovement.forwardAndBackward / 2.0f;
+                playerMovementInfo.forwardAndBackward = playerMovementInfo.forwardAndBackward / 2.0f;
             }
         }
     }
@@ -111,28 +111,28 @@ public class PlayerMovement : MonoBehaviour
     // ---------------------------------------------------------------------------------------------------------------------------
     public void PerformBlendTreeAnimation()
     {
-        float leftAndRight = playerMovement.leftAndRight;
+        float leftAndRight = playerMovementInfo.leftAndRight;
 
-        if (playerMovement.movingBackwards)
+        if (playerMovementInfo.movingBackwards)
         {
             leftAndRight = 0.0f;
         }
 
         animator.SetFloat("leftAndRight", leftAndRight);
-        animator.SetFloat("forwardAndBackward", playerMovement.forwardAndBackward);
+        animator.SetFloat("forwardAndBackward", playerMovementInfo.forwardAndBackward);
     }
 
     // ---------------------------------------------------------------------------------------------------------------------------
     public void CalculateDirectionAndDistance()
     {
-        Vector3 moveDirectionForward = transform.forward * playerMovement.forwardAndBackward;
-        Vector3 moveDirectionSide    = transform.right * playerMovement.leftAndRight;
+        Vector3 moveDirectionForward = transform.forward * playerMovementInfo.forwardAndBackward;
+        Vector3 moveDirectionSide    = transform.right * playerMovementInfo.leftAndRight;
         //Vector3 moveDirectionUp      = transform.up * 1;
 
-        playerMovement.direction = moveDirectionForward + moveDirectionSide; 
-        playerMovement.normalizedDirection = playerMovement.direction.normalized;
+        playerMovementInfo.direction = moveDirectionForward + moveDirectionSide; 
+        playerMovementInfo.normalizedDirection = playerMovementInfo.direction.normalized;
 
-        playerMovement.distance = playerMovement.normalizedDirection * playerMovement.speed * Time.deltaTime;
+        playerMovementInfo.distance = playerMovementInfo.normalizedDirection * playerMovementInfo.speed * Time.deltaTime;
 
         //playerMovement.distance.y = 0;
         //Debug.Log("CalculateDirectionAndDistance. playerMovement.normalizedDirection: " + playerMovement.normalizedDirection +
@@ -156,7 +156,7 @@ public class PlayerMovement : MonoBehaviour
     public void PerformPhysicalMovement()
     {
         //Debug.Log("PerformPhysicalMovement. playerMovement.distance: " + playerMovement.distance);
-        characterController.Move(playerMovement.distance);
+        characterController.Move(playerMovementInfo.distance);
     }
 
     // ---------------------------------------------------------------------------------------------------------------------------
@@ -165,19 +165,19 @@ public class PlayerMovement : MonoBehaviour
         if (characterController.isGrounded)
         {
             airTime = 0;
-            playerMovement.normalizedDirection.y = 0;
-            playerMovement.distance.y = 0;
+            playerMovementInfo.normalizedDirection.y = 0;
+            playerMovementInfo.distance.y = 0;
         }
         else // falling
         {
             Debug.Log("GroundPlayer. falling and characterController.isGrounded: " + characterController.isGrounded);
             airTime += Time.deltaTime;
-            Vector3 direction = playerMovement.normalizedDirection;
+            Vector3 direction = playerMovementInfo.normalizedDirection;
           
             direction.y += 0.5f * gravity * airTime;
           
-            playerMovement.normalizedDirection = direction;
-            playerMovement.distance = playerMovement.normalizedDirection * airTime;
+            playerMovementInfo.normalizedDirection = direction;
+            playerMovementInfo.distance = playerMovementInfo.normalizedDirection * airTime;
             //PerformPhysicalMovement();
         }
     }
