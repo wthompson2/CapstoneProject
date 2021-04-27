@@ -3,7 +3,7 @@
 public class FullMovementCamera : MonoBehaviour
 {
     public Transform lookAt;   // spot (e.g., player head or crosshair)
-
+    
     public float zoomSensitivity = 0.5f;
 
     public const float Y_ANGLE_MIN = -50.0f; // max look down
@@ -22,11 +22,11 @@ public class FullMovementCamera : MonoBehaviour
     Vector3 farthestZoomPermitted;
 
     private void Start()
-    {
-        offset = transform.position - lookAt.position;
+    {   
+        offset     = transform.position - lookAt.position;
         zoomOffset = offset; // initial zoom offset
 
-        closestZoomPermitted = offset * 0.25f;
+        closestZoomPermitted  = offset * 0.25f;
         farthestZoomPermitted = offset * 4f;
     }
 
@@ -47,7 +47,7 @@ public class FullMovementCamera : MonoBehaviour
         if (Input.GetKey(KeyCode.R))
         {
             // Input.mouseScrollDelta.y e.g., -2, -1, 0, 1, 2
-            float delta = Input.mouseScrollDelta.y * zoomSensitivity;
+            float delta = Input.mouseScrollDelta.y * zoomSensitivity;  
 
             if (delta != 0)
             {
@@ -65,18 +65,18 @@ public class FullMovementCamera : MonoBehaviour
 
             direction.z = zoomOffset.z; // keep camera behind player at zoom offset
         }
-        else
+        else 
         {
-            zoomOffset = offset; // restore
+            zoomOffset  = offset; // restore
             direction.z = offset.z;
         }
-
+        
         //Vector3 startPosition = transform.position;
-        Vector3 endPosition = lookAt.position + rotation * direction;
-
+        Vector3 endPosition   = lookAt.position + rotation * direction;
+        
         transform.position = endPosition;
         //camTransform.position = Vector3.Lerp(startPosition,endPosition,20*Time.deltaTime);
 
         transform.LookAt(lookAt.position);
-    }
+    }    
 }
