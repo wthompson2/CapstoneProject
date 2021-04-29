@@ -1,5 +1,5 @@
 # CapstoneProject
-As of 2.17.21:
+As of 4.28.21:
 
 Virtual Tour - PKI
 
@@ -15,8 +15,18 @@ have to download the build and execute it from the download.
 Features: Below is a list of specific features that the application implements in order to act as a good simulation and college information provider:
 
 - Virtual Recreation of certain areas of PKI (not 1:1 but close approximations)
-- Avatars of actual faculty members who speak to the user via prerecorded messages
-- Presentation of videos by professors about specific majors and programs offered within the college
-- Triggers for the avatars and videos so that audio and video are activated and not constantly playing in addition to proximity volume
-- In-game activities for the player to play that provide information about the college in a fun and interesting way
-- Simple avatar customization
+- Whiteboards playing videos from actual Professors that start and stop via in-room triggers
+- Character Selection screen
+- Full Menuing
+- Multple classrooms with multiple videos
+- Fishbowl implementation
+- Full modeling of PKI-like items including monitors, mice, and keyboards
+
+If running via the Unity editor, be sure to run in the TitleScene as this is the first screen that players will see when the game opens up.
+
+**Known bugs for initial cloning:**
+In the TitleScene may need to change the reference function for the Start button: 
+Under Canvas->Start: Change the onClick() second dropdown in the button component section to the option:
+RespondToButtonClicks.HandleCharacterButtonOnClickEvent
+
+Player models on the character select screen do not have correct hit detection, so character selected will not be used; instead the default model "Ethan" will be used.
