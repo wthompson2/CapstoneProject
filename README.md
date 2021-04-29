@@ -23,6 +23,19 @@ Features: Below is a list of specific features that the application implements i
 - Full modeling of PKI-like items including monitors, mice, and keyboards
 
 If running via the Unity editor, be sure to run in the TitleScene as this is the first screen that players will see when the game opens up.
+Build Settings
+
+Set build to WebGl
+Set built to Developer Build
+In Build Settings click Player Settings
+Under Player Settings -> WebGL -> Publishing set compression format to Disabled
+Make sure the Title Scene HelpScene CharacterSelectScene and PKIScene are all enabled in the build settings
+Click Build or Build and Run
+Reccomended Browser is Firefox
+Link to enable WebGl in firefox https://www.interplaylearning.com/help/how-to-enable-webgl-in-firefox
+If a CORS error is encountered it is very easy to fix in firefox  https://help.symantec.com/cs/DCS1.0/DCS1_0/v107680513_v99309261/Enabling-CORS?locale=EN_US
+When build is loaded ensure the site permissions allow videos and audio to play automatically, otherwise videos will not play
+
 
 **Known bugs for initial cloning:**
 In the TitleScene may need to change the reference function for the Start button: 
