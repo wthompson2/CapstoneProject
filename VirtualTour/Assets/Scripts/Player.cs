@@ -2,8 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Video;
 
-namespace VirtualTour
-{
+
     [RequireComponent(typeof(VideoPlayer))]
     public class Player : MonoBehaviour
     {
@@ -19,8 +18,18 @@ namespace VirtualTour
                 playing = true;
             }
         }
+        
+        public bool getPlaying()
+        {
+        return this.playing;
+        }
 
-        private void Update()
+        public string getMovie()
+        {
+        return this._movieFilename;
+        }
+
+    private void Update()
         {
             
         }
@@ -71,4 +80,3 @@ namespace VirtualTour
             }
         }
     }
-}

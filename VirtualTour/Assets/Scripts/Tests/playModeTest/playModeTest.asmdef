@@ -1,0 +1,10 @@
+﻿{
+  "name": "playModeTest",
+  "references": [
+    "MyScriptAssembly"
+  ],
+
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
