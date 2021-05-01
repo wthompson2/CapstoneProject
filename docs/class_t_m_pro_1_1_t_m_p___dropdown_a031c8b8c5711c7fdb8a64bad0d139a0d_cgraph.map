@@ -1,0 +1,4 @@
+<map id="TMPro.TMP_Dropdown.ClearOptions" name="TMPro.TMP_Dropdown.ClearOptions">
+<area shape="rect" id="node1" title="Clear the list of options in the Dropdown." alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#ac99e89e4f86608cd77442d20b9de3aba" title="Refreshes the text and image (if available) of the currently selected option." alt="" coords="243,5,445,47"/>
+</map>

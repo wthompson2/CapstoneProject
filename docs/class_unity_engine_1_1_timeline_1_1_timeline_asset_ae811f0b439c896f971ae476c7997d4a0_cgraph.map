@@ -1,0 +1,5 @@
+<map id="UnityEngine.Timeline.TimelineAsset.DeleteTrack" name="UnityEngine.Timeline.TimelineAsset.DeleteTrack">
+<area shape="rect" id="node1" title="Deletes a track from a timeline, including all clips and subtracks." alt="" coords="5,39,201,80"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#aa5356a1260ee2e86a9df796a15496c95" title="Delete a clip from this timeline." alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_track_asset.html#aa2031fe30133f8c28e14483768ce8e29" title="The list of subtracks or child tracks attached to this track." alt="" coords="257,71,437,112"/>
+</map>

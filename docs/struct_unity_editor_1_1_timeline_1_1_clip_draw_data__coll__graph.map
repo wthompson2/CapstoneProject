@@ -1,0 +1,11 @@
+<map id="UnityEditor.Timeline.ClipDrawData" name="UnityEditor.Timeline.ClipDrawData">
+<area shape="rect" id="node1" title=" " alt="" coords="795,146,959,187"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_clip_editor.html" title="Use this class to customize clip types in the TimelineEditor." alt="" coords="454,21,618,62"/>
+<area shape="rect" id="node3" href="$struct_unity_editor_1_1_timeline_1_1_clip_blends.html" title=" " alt="" coords="454,86,618,127"/>
+<area shape="rect" id="node4" title=" " alt="" coords="75,61,130,88"/>
+<area shape="rect" id="node7" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html" title="Represents a clip on the timeline." alt="" coords="427,152,645,179"/>
+<area shape="rect" id="node5" href="$struct_unity_editor_1_1_timeline_1_1_clip_draw_options.html" title="The user&#45;defined options for drawing a clip." alt="" coords="454,203,618,245"/>
+<area shape="rect" id="node6" href="$struct_unity_editor_1_1_timeline_1_1_icon_data.html" title=" " alt="" coords="439,269,633,296"/>
+<area shape="rect" id="node8" href="$interface_unity_engine_1_1_timeline_1_1_i_curves_owner.html" title=" " alt="" coords="52,175,153,201"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,225,200,252"/>
+</map>

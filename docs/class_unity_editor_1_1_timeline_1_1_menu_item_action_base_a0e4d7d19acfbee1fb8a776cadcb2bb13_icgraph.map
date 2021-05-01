@@ -1,0 +1,12 @@
+<map id="UnityEditor.Timeline.MenuItemActionBase.IsActionActiveInMode" name="UnityEditor.Timeline.MenuItemActionBase.IsActionActiveInMode">
+<area shape="rect" id="node1" title=" " alt="" coords="541,169,784,211"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_item_action.html#a13a8d1b8e3449ac313a5a5882afa7456" title=" " alt="" coords="315,5,481,47"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_timeline_action.html#a8ca3465858bf02905795fab03dba2e98" title=" " alt="" coords="303,71,493,112"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_track_action.html#a5803969b21e353535616724950c19b8d" title=" " alt="" coords="311,136,485,177"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_timeline_action.html#a8b0d1311b3c56f6c8232659bb2ded4ab" title=" " alt="" coords="303,201,493,243"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_1_1_item_action.html#aab9b449c05f93c479a730380a3c10abf" title=" " alt="" coords="315,267,481,308"/>
+<area shape="rect" id="node9" href="$class_unity_editor_1_1_timeline_1_1_track_action.html#a95af73057a5aec7baa1c83c337346dd7" title=" " alt="" coords="311,336,485,377"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_timeline_shortcut_manipulator.html#acb444591cf652e50a0a43953a463fb2d" title=" " alt="" coords="5,193,255,235"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_1_1_item_action_shortcut_manipulator.html#abaf577d380179cb9e3104eb48362aca0" title=" " alt="" coords="17,259,243,315"/>
+<area shape="rect" id="node10" href="$class_unity_editor_1_1_timeline_1_1_track_shortcut_manipulator.html#ae7603696d6d41e04b49a42efb5435483" title=" " alt="" coords="5,340,255,381"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="UnityEditor.Timeline.SequenceState.ToLocalTime" name="UnityEditor.Timeline.SequenceState.ToLocalTime">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a5a65196511de2353627a38bd9e6e09e2" title="Converts from global time to local time of the clip" alt="" coords="253,5,449,47"/>
+</map>

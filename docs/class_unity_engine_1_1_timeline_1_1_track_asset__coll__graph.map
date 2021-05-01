@@ -1,0 +1,7 @@
+<map id="UnityEngine.Timeline.TrackAsset" name="UnityEngine.Timeline.TrackAsset">
+<area shape="rect" id="node1" title="A PlayableAsset representing a track inside a timeline." alt="" coords="255,80,435,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="224,5,331,32"/>
+<area shape="rect" id="node4" href="$interface_unity_engine_1_1_timeline_1_1_i_property_preview.html" title="Implement this interface in a PlayableAsset to specify which properties will be modified when Timelin..." alt="" coords="355,5,474,32"/>
+<area shape="rect" id="node5" href="$interface_unity_engine_1_1_timeline_1_1_i_curves_owner.html" title=" " alt="" coords="499,5,600,32"/>
+</map>

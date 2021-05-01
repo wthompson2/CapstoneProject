@@ -1,0 +1,11 @@
+<map id="TMPro.TMP_InputField.ProcessEvent" name="TMPro.TMP_InputField.ProcessEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,212,178"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a9ef972ef2261f10383fd4a900a9c3449" title=" " alt="" coords="260,137,441,178"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a3d675445c819058d84bfa8b8889fb119" title="Append the specified text to the end of the current." alt="" coords="500,5,703,32"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ad8ccac2088400564ddeac6201c0aba03" title=" " alt="" coords="489,56,713,83"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a817cdcf34d7711275ffa8643b02a73fa" title="Move to the end of the current line of text." alt="" coords="507,107,695,149"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a1ac4c595e5f686b371e27745b0a2c99b" title="Update the visual text Text." alt="" coords="761,166,960,207"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ad0c485854da42ede16b5127258120c40" title="Move to the start of the current line of text." alt="" coords="507,225,695,266"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ae7246b94a4be46fb34a132db2cbcbf98" title=" " alt="" coords="496,291,707,317"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_t_m_p___text.html#acc79714f2b21eff7b784d8282a6f7756" title="Function to force regeneration of the text object before its normal process time. This is useful when..." alt="" coords="1008,166,1200,207"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="TMPro.MaterialReference" name="TMPro.MaterialReference">
+<area shape="rect" id="node1" title=" " alt="" coords="851,64,1019,91"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___font_asset.html" title=" " alt="" coords="569,89,728,116"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___asset.html" title=" " alt="" coords="238,5,329,32"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html" title=" " alt="" coords="565,19,732,45"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node5" href="$struct_t_m_pro_1_1_font_asset_creation_settings.html" title=" " alt="" coords="173,61,393,88"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_kerning_table.html" title=" " alt="" coords="214,112,353,139"/>
+<area shape="rect" id="node7" title=" " alt="" coords="256,163,311,189"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_t_m_p___font_feature_table.html" title="Table that contains the various font features available for the given font asset." alt="" coords="184,213,383,240"/>
+</map>

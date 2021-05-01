@@ -1,0 +1,25 @@
+var interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor =
+[
+    [ "Categories", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a6cbaa5f1984f19a145d3fa4b90e8407d", null ],
+    [ "ChildIndex", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a875588c122ae80173160c9ae5eea4b5c", null ],
+    [ "Children", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#ac9d96731cabd313982e2259a0f41a314", null ],
+    [ "Description", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a67c127d13b044ce413216562d9e343b4", null ],
+    [ "FullName", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a17521034b69ec4b5bc9531f37e024809", null ],
+    [ "HasChildren", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a2d633ed97bdbc622df4bcc0e29f6143f", null ],
+    [ "Id", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a4492bfa2f17a783e7acecf833fb11b30", null ],
+    [ "IsSuite", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a01e71dc9fa93ac1dd069aaa3613b0f89", null ],
+    [ "IsTestAssembly", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a732840ad336dd8849b7f0451ff9680dd", null ],
+    [ "Method", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a2579e6a343fba5dfd5f34e4ba0fffdb2", null ],
+    [ "Name", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a49ca92106ee4af718307d733cfb127e8", null ],
+    [ "Parent", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a963e2dba0559d0f0b4e7c69b3e0bb85c", null ],
+    [ "ParentFullName", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a2691867507c8b5215ab264d2ab92525c", null ],
+    [ "ParentId", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#af5e49dbc3e735a84c444820cdf6f3756", null ],
+    [ "ParentUniqueName", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a0bf9aea7449153361567d216dda35cf8", null ],
+    [ "RunState", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a0c32a783116f602d9074ba172e2cb9ca", null ],
+    [ "SkipReason", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#afde4611def4e8c365b266ad368fdaac6", null ],
+    [ "TestCaseCount", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a4f265bee4e6f646e9e0afa0c11c43fe2", null ],
+    [ "TestCaseTimeout", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a8788c0bbae9107c4423517128c33216b", null ],
+    [ "TestMode", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a867066d3409942fb831206794c264527", null ],
+    [ "TypeInfo", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a1148193b25bf01bfa52e857402a262a2", null ],
+    [ "UniqueName", "interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a7df2e24eb950efb92f0686bd07c0a53b", null ]
+];

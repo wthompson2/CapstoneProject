@@ -1,0 +1,10 @@
+<map id="UnityEditor.Timeline.IBounds" name="UnityEditor.Timeline.IBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="5,111,195,138"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_inline_curve_editor.html" title=" " alt="" coords="252,5,424,47"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_inline_curve_resize_handle.html" title=" " alt="" coords="252,71,424,112"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html" title=" " alt="" coords="243,136,433,177"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_1_1_track_resize_handle.html" title=" " alt="" coords="251,201,425,243"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html" title=" " alt="" coords="481,104,672,145"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_error_g_u_i.html" title=" " alt="" coords="481,169,672,211"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_g_u_i.html" title=" " alt="" coords="720,104,911,145"/>
+</map>

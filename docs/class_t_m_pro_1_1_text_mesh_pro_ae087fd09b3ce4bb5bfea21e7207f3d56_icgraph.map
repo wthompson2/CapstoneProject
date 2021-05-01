@@ -1,0 +1,12 @@
+<map id="TMPro.TextMeshPro.UpdateMaterial" name="TMPro.TextMeshPro.UpdateMaterial">
+<area shape="rect" id="node1" title=" " alt="" coords="775,61,961,102"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro.html#a8ea12a256e97a7ab1d66945b5f3a0a88" title=" " alt="" coords="527,39,715,65"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro.html#af2177065726b878773a7798a3e4aedf7" title="Schedule updating of the material used by the text object." alt="" coords="516,90,727,131"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae6a678bcadc435d05afa59758e5b70f4" title="Function called internally when a new material is assigned via the fontMaterial property." alt="" coords="256,5,468,32"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro.html#a5bb3ac2d25483c61b10064917225ca59" title="Method which derived classes need to override to load Font Assets." alt="" coords="263,57,461,98"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_text_mesh_pro.html#a28274571ae3e165a5db057949ae2f3ea" title=" " alt="" coords="272,122,452,163"/>
+<area shape="rect" id="node10" href="$class_t_m_pro_1_1_text_mesh_pro.html#a50256541f1e533a8fd3fd4b7830936d8" title="Function called internally when a new shared material is assigned via the fontSharedMaterial property..." alt="" coords="259,187,465,229"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro.html#a941d6ec780b9e2735b52ab08392f7905" title=" " alt="" coords="15,9,199,36"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_text_mesh_pro.html#abd4d7b6017050265bade2ed033d6d781" title=" " alt="" coords="13,61,200,102"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_text_mesh_pro.html#a4d5bc19335502eec964edd5fd7c71f2f" title=" " alt="" coords="5,129,208,156"/>
+</map>

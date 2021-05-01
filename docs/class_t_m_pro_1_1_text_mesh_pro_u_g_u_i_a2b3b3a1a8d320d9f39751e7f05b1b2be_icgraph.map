@@ -1,0 +1,5 @@
+<map id="TMPro.TextMeshProUGUI.ClearMesh" name="TMPro.TextMeshProUGUI.ClearMesh">
+<area shape="rect" id="node1" title="Function to clear the geometry of the Primary and Sub Text objects." alt="" coords="528,13,767,39"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ae43d87969cffe98fbaea5edabc0d55dd" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="251,5,480,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="5,5,203,47"/>
+</map>

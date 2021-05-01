@@ -1,0 +1,8 @@
+<map id="TMPro.TMP_Dropdown.OnPointerClick" name="TMPro.TMP_Dropdown.OnPointerClick">
+<area shape="rect" id="node1" title="Handling for when the dropdown is initially &#39;clicked&#39;. Typically shows the dropdown" alt="" coords="5,39,223,80"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#ae309311315603a4869384e1591842a73" title="Show the dropdown." alt="" coords="271,46,461,73"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#aaaca2aca289284551cb768b4de31123d" title="Create a blocker that blocks clicks to other controls while the dropdown list is open." alt="" coords="509,5,707,47"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#ae6ae9d5a3c350ec81e2108ad6ccf254e" title="Create the dropdown list to be shown when the dropdown is clicked. The dropdown list should correspon..." alt="" coords="509,71,707,112"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a7b1a625bbfae2222ce459deb2df40afd" title="Hide the dropdown list. I.e. close it." alt="" coords="755,13,940,39"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a1bf1e08099436573116705840810dc3f" title="Convenience method to explicitly destroy the previously generated blocker object" alt="" coords="988,5,1192,47"/>
+</map>

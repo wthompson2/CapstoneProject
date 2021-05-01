@@ -1,0 +1,6 @@
+<map id="UnityEditor.Timeline.TrackEditor.GetTrackOptions" name="UnityEditor.Timeline.TrackEditor.GetTrackOptions">
+<area shape="rect" id="node1" title="Implement this method to override the default options for drawing a track." alt="" coords="5,39,180,80"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#aea1e22bf8942adb19f776b525c933433" title="Gets the error text for the specified track." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a172572f84be2d2b7c756da8a91b8b8ba" title="Gets the color information of a track." alt="" coords="228,71,403,112"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a1eb8c0c3c958c9c3a890028bdcb6fcf8" title="Gets the binding type for a track." alt="" coords="451,5,625,47"/>
+</map>

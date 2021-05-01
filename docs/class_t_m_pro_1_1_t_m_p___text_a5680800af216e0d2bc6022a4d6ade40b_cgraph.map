@@ -1,0 +1,6 @@
+<map id="TMPro.TMP_Text.DrawTextHighlight" name="TMPro.TMP_Text.DrawTextHighlight">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,236,73"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#aa644bbb25fe0d440b1adf25dc2081f37" title=" " alt="" coords="284,5,487,47"/>
+<area shape="rect" id="node4" href="$struct_t_m_pro_1_1_t_m_p___mesh_info.html#ac2631e006b2107ce543716541a48e5d1" title="Function to resized the content of MeshData and re&#45;assign normals, tangents and triangles." alt="" coords="288,71,483,112"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="535,5,740,47"/>
+</map>

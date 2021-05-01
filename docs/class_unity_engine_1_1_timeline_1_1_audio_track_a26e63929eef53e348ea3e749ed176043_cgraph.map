@@ -1,0 +1,4 @@
+<map id="UnityEngine.Timeline.AudioTrack.CreateClip" name="UnityEngine.Timeline.AudioTrack.CreateClip">
+<area shape="rect" id="node1" title="Create an TimelineClip for playing an AudioClip on this track." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_track_asset.html#adce73dc72f31e4a97103ae7c6b9ba8ec" title="Creates a TimelineClip on this track." alt="" coords="235,5,415,47"/>
+</map>

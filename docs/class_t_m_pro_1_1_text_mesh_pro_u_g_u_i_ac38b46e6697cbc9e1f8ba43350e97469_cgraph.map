@@ -1,0 +1,12 @@
+<map id="TMPro.TextMeshProUGUI.UpdateFontAsset" name="TMPro.TextMeshProUGUI.UpdateFontAsset">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,223,145"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aedbf6c9aaf6c104ac7c81e85d99498b4" title="Method which derived classes need to override to load Font Assets." alt="" coords="271,104,475,145"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text.html#a7182ea72ca6b396af6cae05cee59243d" title="Get the padding value for the currently assigned material" alt="" coords="523,5,718,47"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___text.html#a17ad19c4cf9c5ad4485b208eb0a37bf2" title="Method used to find and cache references to the Underline and Ellipsis characters." alt="" coords="525,71,716,112"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#ade90a42615b002bb0c31b06d497df510" title=" " alt="" coords="525,136,717,177"/>
+<area shape="rect" id="node10" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#af75e3f762ed8c445cc4ad100903b5cf1" title=" " alt="" coords="523,201,719,243"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___text.html#a3193988e012b58e178ae978de5e64e6d" title=" " alt="" coords="773,104,963,145"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_t_m_p___text.html#aa644bbb25fe0d440b1adf25dc2081f37" title=" " alt="" coords="767,39,969,80"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="1017,39,1223,80"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#afdc59bd1dcec2cddc898a4f034a66dee" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="1017,104,1223,145"/>
+</map>

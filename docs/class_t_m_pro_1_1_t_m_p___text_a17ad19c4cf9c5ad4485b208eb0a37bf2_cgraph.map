@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_Text.GetSpecialCharacters" name="TMPro.TMP_Text.GetSpecialCharacters">
+<area shape="rect" id="node1" title="Method used to find and cache references to the Underline and Ellipsis characters." alt="" coords="5,39,196,80"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a3193988e012b58e178ae978de5e64e6d" title=" " alt="" coords="250,71,441,112"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___text.html#aa644bbb25fe0d440b1adf25dc2081f37" title=" " alt="" coords="244,5,447,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="495,5,700,47"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#afdc59bd1dcec2cddc898a4f034a66dee" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="495,71,700,112"/>
+</map>

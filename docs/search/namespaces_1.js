@@ -1,19 +1,5 @@
 var searchData=
 [
-  ['_5f2d_769',['_2D',['../namespace_unity_standard_assets_1_1__2_d.html',1,'UnityStandardAssets']]],
-  ['aeroplane_770',['Aeroplane',['../namespace_unity_standard_assets_1_1_vehicles_1_1_aeroplane.html',1,'UnityStandardAssets::Vehicles']]],
-  ['ball_771',['Ball',['../namespace_unity_standard_assets_1_1_vehicles_1_1_ball.html',1,'UnityStandardAssets::Vehicles']]],
-  ['cameras_772',['Cameras',['../namespace_unity_standard_assets_1_1_cameras.html',1,'UnityStandardAssets']]],
-  ['car_773',['Car',['../namespace_unity_standard_assets_1_1_vehicles_1_1_car.html',1,'UnityStandardAssets::Vehicles']]],
-  ['characters_774',['Characters',['../namespace_unity_standard_assets_1_1_characters.html',1,'UnityStandardAssets']]],
-  ['crossplatforminput_775',['CrossPlatformInput',['../namespace_unity_standard_assets_1_1_cross_platform_input.html',1,'UnityStandardAssets']]],
-  ['effects_776',['Effects',['../namespace_unity_standard_assets_1_1_effects.html',1,'UnityStandardAssets']]],
-  ['firstperson_777',['FirstPerson',['../namespace_unity_standard_assets_1_1_characters_1_1_first_person.html',1,'UnityStandardAssets::Characters']]],
-  ['inspector_778',['Inspector',['../namespace_unity_standard_assets_1_1_cross_platform_input_1_1_inspector.html',1,'UnityStandardAssets.CrossPlatformInput.Inspector'],['../namespace_unity_standard_assets_1_1_utility_1_1_inspector.html',1,'UnityStandardAssets.Utility.Inspector']]],
-  ['platformspecific_779',['PlatformSpecific',['../namespace_unity_standard_assets_1_1_cross_platform_input_1_1_platform_specific.html',1,'UnityStandardAssets::CrossPlatformInput']]],
-  ['thirdperson_780',['ThirdPerson',['../namespace_unity_standard_assets_1_1_characters_1_1_third_person.html',1,'UnityStandardAssets::Characters']]],
-  ['unitystandardassets_781',['UnityStandardAssets',['../namespace_unity_standard_assets.html',1,'']]],
-  ['utility_782',['Utility',['../namespace_unity_standard_assets_1_1_utility.html',1,'UnityStandardAssets']]],
-  ['vehicles_783',['Vehicles',['../namespace_unity_standard_assets_1_1_vehicles.html',1,'UnityStandardAssets']]],
-  ['water_784',['Water',['../namespace_unity_standard_assets_1_1_water.html',1,'UnityStandardAssets']]]
+  ['github_6034',['GitHub',['../namespace_git_hub.html',1,'']]],
+  ['unity_6035',['Unity',['../namespace_git_hub_1_1_unity.html',1,'GitHub']]]
 ];

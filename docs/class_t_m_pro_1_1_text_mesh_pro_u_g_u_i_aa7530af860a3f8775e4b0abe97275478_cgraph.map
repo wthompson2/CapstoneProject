@@ -1,0 +1,11 @@
+<map id="TMPro.TextMeshProUGUI.OnEnable" name="TMPro.TextMeshProUGUI.OnEnable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,199,145"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a585823ae58e0b54f1497ced737567a03" title="Update the margin width and height" alt="" coords="255,5,483,47"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ada791339448a5b531f1bf276108b2b8c" title="Method called when the state of a parent changes." alt="" coords="247,71,491,112"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a955de616cf76ff0886112394b6289d85" title="Method to Enable or Disable child SubMesh objects." alt="" coords="271,136,467,177"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a749eb1a6e9aa2f277b07a01f14483cc3" title=" " alt="" coords="271,201,467,243"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a9061f9387fbed4095b88a7ad98a9bf90" title="Method to return the local corners of the Text Container or RectTransform." alt="" coords="539,5,736,47"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a662b65a09b65317f716297d4377e27a7" title=" " alt="" coords="539,136,735,177"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#af75e3f762ed8c445cc4ad100903b5cf1" title=" " alt="" coords="539,201,735,243"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#acc18f45edf09f79d04d6a9e461633d7c" title=" " alt="" coords="539,267,735,308"/>
+</map>

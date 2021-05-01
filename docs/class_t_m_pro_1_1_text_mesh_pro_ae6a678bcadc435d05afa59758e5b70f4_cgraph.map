@@ -1,0 +1,8 @@
+<map id="TMPro.TextMeshPro.GetMaterial" name="TMPro.TextMeshPro.GetMaterial">
+<area shape="rect" id="node1" title="Function called internally when a new material is assigned via the fontMaterial property." alt="" coords="5,78,217,105"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a7182ea72ca6b396af6cae05cee59243d" title="Get the padding value for the currently assigned material" alt="" coords="275,5,469,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro.html#af2177065726b878773a7798a3e4aedf7" title="Schedule updating of the material used by the text object." alt="" coords="267,71,477,112"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro.html#a8ca7b09fd7f2319069c84e72c0db0fa8" title="Schedule rebuilding of the text geometry." alt="" coords="265,137,479,179"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae087fd09b3ce4bb5bfea21e7207f3d56" title=" " alt="" coords="537,68,723,109"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_t_m_p___update_manager.html#a110903981e6a8c00d95957b707cc3c99" title="Function to register elements which require a layout rebuild." alt="" coords="527,134,733,190"/>
+</map>

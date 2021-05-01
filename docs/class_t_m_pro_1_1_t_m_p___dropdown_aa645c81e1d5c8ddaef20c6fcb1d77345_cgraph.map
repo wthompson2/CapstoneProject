@@ -1,0 +1,5 @@
+<map id="TMPro.TMP_Dropdown.OnCancel" name="TMPro.TMP_Dropdown.OnCancel">
+<area shape="rect" id="node1" title="This will hide the dropdown list." alt="" coords="5,13,221,39"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a7b1a625bbfae2222ce459deb2df40afd" title="Hide the dropdown list. I.e. close it." alt="" coords="269,13,455,39"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a1bf1e08099436573116705840810dc3f" title="Convenience method to explicitly destroy the previously generated blocker object" alt="" coords="503,5,707,47"/>
+</map>

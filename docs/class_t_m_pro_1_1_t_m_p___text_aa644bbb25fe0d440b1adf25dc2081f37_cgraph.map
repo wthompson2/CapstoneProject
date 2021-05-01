@@ -1,0 +1,4 @@
+<map id="TMPro.TMP_Text.GetUnderlineSpecialCharacter" name="TMPro.TMP_Text.GetUnderlineSpecialCharacter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="256,5,461,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TMPro.EditorUtilities.TMP_BaseShaderGUI.BeginPanel" name="TMPro.EditorUtilities.TMP_BaseShaderGUI.BeginPanel">
+<area shape="rect" id="node1" title=" " alt="" coords="228,39,420,80"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___bitmap_shader_g_u_i.html#af4f6c43167899462930161b3db412cb5" title="Override this method to create the specific shader GUI." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___s_d_f_shader_g_u_i.html#ad54675b667fc314961cedb1beeacd6b4" title="Override this method to create the specific shader GUI." alt="" coords="7,71,179,112"/>
+</map>

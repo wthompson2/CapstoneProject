@@ -1,0 +1,4 @@
+<map id="UnityEditor.Timeline.ClipEditor.GetErrorText" name="UnityEditor.Timeline.ClipEditor.GetErrorText">
+<area shape="rect" id="node1" title="Gets the error text for the specified clip." alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_clip_editor.html#a3381f162ac568a6c20c749bc74a7a06b" title="Implement this method to override the default options for drawing a clip." alt="" coords="5,5,169,47"/>
+</map>

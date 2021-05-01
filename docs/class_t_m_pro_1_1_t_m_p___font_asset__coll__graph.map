@@ -1,0 +1,9 @@
+<map id="TMPro.TMP_FontAsset" name="TMPro.TMP_FontAsset">
+<area shape="rect" id="node1" title=" " alt="" coords="565,107,724,133"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___asset.html" title=" " alt="" coords="238,5,329,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$struct_t_m_pro_1_1_font_asset_creation_settings.html" title=" " alt="" coords="173,56,393,83"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_kerning_table.html" title=" " alt="" coords="214,107,353,133"/>
+<area shape="rect" id="node6" title=" " alt="" coords="256,157,311,184"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_t_m_p___font_feature_table.html" title="Table that contains the various font features available for the given font asset." alt="" coords="184,208,383,235"/>
+</map>

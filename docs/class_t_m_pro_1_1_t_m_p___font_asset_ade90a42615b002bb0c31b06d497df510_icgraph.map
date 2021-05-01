@@ -1,0 +1,16 @@
+<map id="TMPro.TMP_FontAsset.ReadFontAssetDefinition" name="TMPro.TMP_FontAsset.ReadFontAssetDefinition">
+<area shape="rect" id="node1" title=" " alt="" coords="567,239,759,280"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#a5dd445cf935c5dc8d48b2e4f4dcd12a3" title="Clears font asset data including the glyph and character tables and textures. Function might be chang..." alt="" coords="299,5,491,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#a3763c422ed1d1ccdea665d862bcee7ca" title="Create new instance of a font asset." alt="" coords="295,71,495,112"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#af9bf0b22f0d6c1bd975723007170647c" title="Function to check if a character is contained in the font asset with the option to also check through..." alt="" coords="274,137,515,163"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#ac34a1e5e756233491e66d73fb7072d2d" title=" " alt="" coords="271,187,519,214"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro.html#a5bb3ac2d25483c61b10064917225ca59" title="Method which derived classes need to override to load Font Assets." alt="" coords="295,239,494,280"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aedbf6c9aaf6c104ac7c81e85d99498b4" title="Method which derived classes need to override to load Font Assets." alt="" coords="293,304,497,345"/>
+<area shape="rect" id="node12" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___font_asset_editor.html#a73b246c279b3400a6efd902498c8083a" title=" " alt="" coords="303,369,487,411"/>
+<area shape="rect" id="node13" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___font_asset_editor.html#a6252b5aae39cc04893667c96c9960881" title=" " alt="" coords="285,435,504,476"/>
+<area shape="rect" id="node14" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#a84696ac330200bc56ea91856c422ae06" title="Try adding the characters from the provided string to the font asset." alt="" coords="293,500,496,541"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_text_mesh_pro.html#a941d6ec780b9e2735b52ab08392f7905" title=" " alt="" coords="22,190,206,217"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_text_mesh_pro.html#abd4d7b6017050265bade2ed033d6d781" title=" " alt="" coords="21,241,207,283"/>
+<area shape="rect" id="node10" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a68396208120ce895ce53db26b8779c35" title=" " alt="" coords="7,310,221,337"/>
+<area shape="rect" id="node11" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ac38b46e6697cbc9e1f8ba43350e97469" title=" " alt="" coords="5,361,223,403"/>
+</map>

@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['skidding_1294',['Skidding',['../class_unity_standard_assets_1_1_vehicles_1_1_car_1_1_car_controller.html#aa0b5358bd226df3a27a094fcb5f06b7e',1,'UnityStandardAssets::Vehicles::Car::CarController']]],
-  ['skidding_1295',['skidding',['../class_unity_standard_assets_1_1_vehicles_1_1_car_1_1_wheel_effects.html#abfedceb8b0de3e0697b8fb1d17305b10',1,'UnityStandardAssets::Vehicles::Car::WheelEffects']]],
-  ['speedpoint_1296',['speedPoint',['../class_unity_standard_assets_1_1_utility_1_1_waypoint_progress_tracker.html#a12ee022c9a87d5d34ecc7c7fba75ef73',1,'UnityStandardAssets::Utility::WaypointProgressTracker']]]
+  ['name_10452',['Name',['../interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_adaptor.html#a49ca92106ee4af718307d733cfb127e8',1,'UnityEditor.TestTools.TestRunner.Api.ITestAdaptor.Name()'],['../interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_test_result_adaptor.html#aaa3c843635b13ae191fdc3ba92caa5af',1,'UnityEditor.TestTools.TestRunner.Api.ITestResultAdaptor.Name()']]],
+  ['name_10453',['name',['../class_unity_standard_assets_1_1_cross_platform_input_1_1_cross_platform_input_manager_1_1_virtual_axis.html#a176a271ea7cb1d9b52194ac0894c1b7b',1,'UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager.VirtualAxis.name()'],['../class_unity_standard_assets_1_1_cross_platform_input_1_1_cross_platform_input_manager_1_1_virtual_button.html#a2c32a0ba1321140c06327f467ed12071',1,'UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager.VirtualButton.name()'],['../class_t_m_pro_1_1_t_m_p___sprite_character.html#a6a1f1a7204a4aa88a4b74652ef3afef2',1,'TMPro.TMP_SpriteCharacter.name()'],['../class_t_m_pro_1_1_t_m_p___style.html#af46a4d247fd1e6fbf78e8497c6f304b6',1,'TMPro.TMP_Style.name()']]],
+  ['nextclip_10454',['nextClip',['../class_unity_editor_1_1_timeline_1_1_timeline_clip_g_u_i.html#a80e4589075052aa66f1b4cbe3ce882b5',1,'UnityEditor::Timeline::TimelineClipGUI']]],
+  ['normalstyle_10455',['NormalStyle',['../class_t_m_pro_1_1_t_m_p___style.html#a2ce09fb8b0c561c934ce2566536581e2',1,'TMPro::TMP_Style']]],
+  ['nunitexceptionmessage_10456',['NUnitExceptionMessage',['../class_unity_engine_1_1_test_tools_1_1_logging_1_1_log_scope.html#a4679ea78aaf665c823d4383e417e3d2c',1,'UnityEngine::TestTools::Logging::LogScope']]]
 ];

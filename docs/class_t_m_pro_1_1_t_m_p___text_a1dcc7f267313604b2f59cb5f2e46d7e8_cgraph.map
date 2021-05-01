@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_Text.SetText" name="TMPro.TMP_Text.SetText">
+<area shape="rect" id="node1" title="Set the text using a StringBuilder." alt="" coords="5,31,177,57"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a4b4159f2b4195cfd1e17fd1e44aecf56" title="Copy contents of StringBuilder into int array." alt="" coords="225,23,427,65"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text.html#ac300ce0327de1c0807c6617496b367cb" title="Convert UTF&#45;16 Hex to Char" alt="" coords="475,5,661,32"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___text.html#add381cfff574155b2b44eddc9fedd883" title="Convert UTF&#45;32 Hex to Char" alt="" coords="475,56,661,83"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___text.html#a2c888ce3a21999d51131753730cac678" title="Function to pack scale information in the UV2 Channel." alt="" coords="709,31,888,57"/>
+</map>

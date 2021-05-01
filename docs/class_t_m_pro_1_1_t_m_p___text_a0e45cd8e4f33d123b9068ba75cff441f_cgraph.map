@@ -1,0 +1,6 @@
+<map id="TMPro.TMP_Text.StringToInternalParsingBuffer" name="TMPro.TMP_Text.StringToInternalParsingBuffer">
+<area shape="rect" id="node1" title="Method to store the content of a string into an integer array." alt="" coords="5,23,223,65"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#ac300ce0327de1c0807c6617496b367cb" title="Convert UTF&#45;16 Hex to Char" alt="" coords="271,5,457,32"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___text.html#add381cfff574155b2b44eddc9fedd883" title="Convert UTF&#45;32 Hex to Char" alt="" coords="271,56,457,83"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text.html#a2c888ce3a21999d51131753730cac678" title="Function to pack scale information in the UV2 Channel." alt="" coords="505,31,684,57"/>
+</map>

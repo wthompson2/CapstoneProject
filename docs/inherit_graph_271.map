@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_unity_engine_1_1_timeline_1_1_i_interval.html" title=" " alt="" coords="5,13,196,39"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_runtime_element.html" title=" " alt="" coords="244,5,440,47"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_infinite_runtime_clip.html" title="Runtime clip customized for &#39;infinite&#39; tracks playables. Used for clips whose time needs to match the..." alt="" coords="488,5,673,47"/>
+</map>

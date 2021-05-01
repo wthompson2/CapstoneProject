@@ -1,0 +1,9 @@
+<map id="TMPro.TMP_FontStyleStack.Clear" name="TMPro.TMP_FontStyleStack.Clear">
+<area shape="rect" id="node1" title="Clear the basic XML tag stack." alt="" coords="541,104,733,145"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro.html#aa98e9ced224ca5ce5e71cbf213645128" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="279,5,478,47"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ae43d87969cffe98fbaea5edabc0d55dd" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="264,136,493,177"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro.html#aca89de99dcd34f8ac176b0eb4f5c11a5" title="Method used to determine the number of visible characters and required buffer allocations." alt="" coords="281,71,477,112"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a21f9430d070d5e79f87c6b62d41c571d" title="Method used to determine the number of visible characters and required buffer allocations." alt="" coords="281,201,477,243"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="5,46,216,73"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="12,168,209,209"/>
+</map>

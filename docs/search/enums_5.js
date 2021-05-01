@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['progressstyle_1213',['ProgressStyle',['../class_unity_standard_assets_1_1_utility_1_1_waypoint_progress_tracker.html#ab40f5f8ef7056c806da2080c360bca96',1,'UnityStandardAssets::Utility::WaypointProgressTracker']]]
+  ['fontfeaturelookupflags_9672',['FontFeatureLookupFlags',['../namespace_t_m_pro.html#a7a1b2ac459f1a69fbd8a373219f1e13c',1,'TMPro']]],
+  ['fontstyles_9673',['FontStyles',['../namespace_t_m_pro.html#aedf79b6e7e2ce2b9c9ac84e790596e7c',1,'TMPro']]],
+  ['fontweight_9674',['FontWeight',['../namespace_t_m_pro.html#ae08cbdb438aade8d0ee87c88b451d48e',1,'TMPro']]]
 ];

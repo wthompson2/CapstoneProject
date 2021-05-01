@@ -1,0 +1,12 @@
+<map id="UnityEditor.Timeline.WindowState.SetTimeAreaShownRange" name="UnityEditor.Timeline.WindowState.SetTimeAreaShownRange">
+<area shape="rect" id="node1" title=" " alt="" coords="751,196,959,237"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#ab85b38edb8da83b1867273ce79bd36a5" title=" " alt="" coords="500,71,703,112"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_frame_selected_action.html#ae0122012cd5227ac45050968f50db2f0" title=" " alt="" coords="507,163,695,204"/>
+<area shape="rect" id="node9" href="$class_unity_editor_1_1_timeline_1_1_rectangle_zoom.html#a9273e391ce4168ce646878db4a0bfed3" title=" " alt="" coords="501,228,701,269"/>
+<area shape="rect" id="node10" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a63e22e0de474b9cbaf150f24694bd004" title=" " alt="" coords="507,293,695,335"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_goto_start_action.html#a966acf7e7f221224d3ccc48c053c160d" title=" " alt="" coords="257,5,427,47"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_goto_end_action.html#aa3a4b3a9e457f78f62d1346c1106f355" title=" " alt="" coords="257,71,427,112"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_frame_all_action.html#a9ef0a2710f2a1d3141f217b4fe28d8ff" title=" " alt="" coords="5,143,184,184"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_1_1_frame_selected_action.html#a129bc2cda89a2bd8ca9a597c94fee63f" title=" " alt="" coords="5,221,184,263"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_1_1_frame_selected_action.html#a0b8f235591f0655d06f0e67f6be6ce24" title=" " alt="" coords="232,188,452,229"/>
+</map>

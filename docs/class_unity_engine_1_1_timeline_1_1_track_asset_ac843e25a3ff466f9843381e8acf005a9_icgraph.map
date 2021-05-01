@@ -1,0 +1,4 @@
+<map id="UnityEngine.Timeline.TrackAsset.CreateMarker" name="UnityEngine.Timeline.TrackAsset.CreateMarker">
+<area shape="rect" id="node1" title="Creates a marker of the requested type, at a specific time, and adds the marker to the current asset." alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_track_asset.html#a4d19a0ed08b61149210a5f8b13d4e5e9" title="Creates a marker of the requested type, at a specific time, and adds the marker to the current asset." alt="" coords="5,5,185,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="TMPro.TMP_Text.SpecialCharacter" name="TMPro.TMP_Text.SpecialCharacter">
+<area shape="rect" id="node1" title=" " alt="" coords="1035,95,1261,121"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___font_asset.html" title=" " alt="" coords="565,155,724,181"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___asset.html" title=" " alt="" coords="238,56,329,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,32,124,59"/>
+<area shape="rect" id="node11" href="$class_t_m_pro_1_1_t_m_p___asset.html" title=" " alt="" coords="217,5,349,32"/>
+<area shape="rect" id="node5" href="$struct_t_m_pro_1_1_font_asset_creation_settings.html" title=" " alt="" coords="173,157,393,184"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_kerning_table.html" title=" " alt="" coords="214,208,353,235"/>
+<area shape="rect" id="node7" title=" " alt="" coords="256,259,311,285"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_t_m_p___font_feature_table.html" title="Table that contains the various font features available for the given font asset." alt="" coords="184,107,383,133"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_t_m_p___character.html" title="A basic element of text." alt="" coords="773,45,928,72"/>
+<area shape="rect" id="node10" href="$class_t_m_pro_1_1_t_m_p___text_element.html" title="Base class for all text elements like Character and SpriteCharacter." alt="" coords="580,31,709,57"/>
+</map>

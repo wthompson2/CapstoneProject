@@ -1,0 +1,10 @@
+<map id="TMPro.TMP_TextInfo.Clear" name="TMPro.TMP_TextInfo.Clear">
+<area shape="rect" id="node1" title="Function to clear the counters of the text object." alt="" coords="541,111,719,138"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text_info.html#aaf8e50d7075ed34cd7668d5df8225194" title="Function to clear the content of all the MeshInfo arrays while preserving their Triangles,..." alt="" coords="290,5,467,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text_info.html#aa34f6fe698de702b8a775b4e57d91ed4" title="Function to clear the content of the MeshInfo array while preserving the Triangles,..." alt="" coords="290,71,467,112"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro.html#aa98e9ced224ca5ce5e71cbf213645128" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="279,136,478,177"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ae43d87969cffe98fbaea5edabc0d55dd" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="264,201,493,243"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae306e084f9bdd5f374e9168d00fa0d17" title="Function to clear the geometry of the Primary and Sub Text objects." alt="" coords="7,78,214,105"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="5,143,216,170"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="12,201,209,243"/>
+</map>

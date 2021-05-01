@@ -1,5 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,148,140,175"/>
 <area shape="rect" id="node2" href="$class_git_hub_1_1_unity_1_1_extension_loader.html" title=" " alt="" coords="189,5,387,32"/>
 <area shape="rect" id="node3" href="$class_git_hub_1_1_unity_1_1_unity_a_p_i_wrapper.html" title=" " alt="" coords="188,56,388,83"/>
+<area shape="rect" id="node4" href="$class_packages_1_1_rider_1_1_editor_1_1_rider_script_editor_data.html" title=" " alt="" coords="195,107,381,149"/>
+<area shape="rect" id="node5" href="$class_packages_1_1_rider_1_1_editor_1_1_unit_testing_1_1_callback_data.html" title=" " alt="" coords="199,173,377,214"/>
+<area shape="rect" id="node6" href="$class_timeline_preferences.html" title="Store the editor preferences for Timeline." alt="" coords="219,239,357,265"/>
+<area shape="rect" id="node7" href="$class_timeline_project_settings.html" title="Store the settings for Timeline that will be stored with the Unity Project." alt="" coords="209,289,367,316"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="TMPro.TMP_SubMesh.AddSubTextObject" name="TMPro.TMP_SubMesh.AddSubTextObject">
+<area shape="rect" id="node1" title=" " alt="" coords="508,5,711,47"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro.html#aca89de99dcd34f8ac176b0eb4f5c11a5" title="Method used to determine the number of visible characters and required buffer allocations." alt="" coords="264,5,460,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="5,13,216,39"/>
+</map>

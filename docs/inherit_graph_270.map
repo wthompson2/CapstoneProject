@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,209,125,235"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_ignore_on_playable_track_attribute.html" title=" " alt="" coords="182,5,365,47"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_not_keyable_attribute.html" title="Apply this to a PlayableBehaviour class or field to indicate that it is not animatable." alt="" coords="189,71,357,112"/>
+<area shape="rect" id="node4" href="$class_unity_engine_1_1_timeline_1_1_supports_child_tracks_attribute.html" title=" " alt="" coords="173,136,373,177"/>
+<area shape="rect" id="node5" href="$class_unity_engine_1_1_timeline_1_1_track_binding_type_attribute.html" title="Specifies the type of object that should be bound to a TrackAsset." alt="" coords="183,201,363,243"/>
+<area shape="rect" id="node6" href="$class_unity_engine_1_1_timeline_1_1_track_clip_type_attribute.html" title="Specifies the type of PlayableAsset that a TrackAsset derived class can create clips of." alt="" coords="183,267,363,308"/>
+<area shape="rect" id="node7" href="$class_unity_engine_1_1_timeline_1_1_track_color_attribute.html" title="Attribute used to specify the color of the track and its clips inside the Timeline Editor." alt="" coords="183,332,363,373"/>
+<area shape="rect" id="node8" href="$class_unity_engine_1_1_timeline_1_1_track_media_type.html" title=" " alt="" coords="183,397,363,439"/>
+</map>

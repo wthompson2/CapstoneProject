@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_SpriteAnimator.StopAllAnimations" name="TMPro.TMP_SpriteAnimator.StopAllAnimations">
+<area shape="rect" id="node1" title=" " alt="" coords="541,39,729,80"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro.html#aa98e9ced224ca5ce5e71cbf213645128" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="279,5,478,47"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ae43d87969cffe98fbaea5edabc0d55dd" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="264,71,493,112"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="5,13,216,39"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="12,71,209,112"/>
+</map>

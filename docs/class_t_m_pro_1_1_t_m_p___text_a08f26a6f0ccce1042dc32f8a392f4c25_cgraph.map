@@ -1,0 +1,4 @@
+<map id="TMPro.TMP_Text.FillCharacterVertexBuffers" name="TMPro.TMP_Text.FillCharacterVertexBuffers">
+<area shape="rect" id="node1" title="Store vertex attributes into the appropriate TMP_MeshInfo." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$struct_t_m_pro_1_1_t_m_p___mesh_info.html#ac2631e006b2107ce543716541a48e5d1" title="Function to resized the content of MeshData and re&#45;assign normals, tangents and triangles." alt="" coords="253,5,448,47"/>
+</map>

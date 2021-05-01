@@ -1,0 +1,11 @@
+<map id="TMPro.TextMeshPro.ForceMeshUpdate" name="TMPro.TextMeshPro.ForceMeshUpdate">
+<area shape="rect" id="node1" title="Function to force regeneration of the text object before its normal process time. This is useful when..." alt="" coords="289,235,500,276"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___runtime_tests.html#a56adfe646fa31d5139bdf0843521badf" title=" " alt="" coords="10,5,237,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___runtime_tests.html#a283147fa72ae8e15d16ea84b389271a0" title=" " alt="" coords="10,71,237,112"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___runtime_tests.html#ad1cc7bb34ebedc169d5e61d1f729c429" title=" " alt="" coords="10,136,237,177"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___runtime_tests.html#a96aa93e70f25ce98e594b1b8740a49b3" title=" " alt="" coords="10,201,237,243"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_t_m_p___editor_tests.html#ac1ae601be4d67996320d9e920c29eb22" title=" " alt="" coords="23,267,224,308"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_t_m_p___editor_tests.html#afca8b24280f94e1956a4808db574b4c3" title=" " alt="" coords="14,333,233,389"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_t_m_p___editor_tests.html#af019e99d147f82ded1b89035c53ddd4c" title=" " alt="" coords="5,413,241,469"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_t_m_p___editor_tests.html#a50f97174c61f451c71a1297edeed2ef9" title=" " alt="" coords="5,493,241,549"/>
+</map>

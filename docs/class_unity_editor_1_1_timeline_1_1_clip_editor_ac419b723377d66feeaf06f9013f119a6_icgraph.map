@@ -1,0 +1,4 @@
+<map id="UnityEditor.Timeline.ClipEditor.GetSubTimelines" name="UnityEditor.Timeline.ClipEditor.GetSubTimelines">
+<area shape="rect" id="node1" title="Gets the sub&#45;timelines for a specific clip. Implement this method if your clip supports playing neste..." alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_clip_editor.html#affd8175678f7f46bbe5536d2e54a3731" title="Default constructor" alt="" coords="5,5,169,47"/>
+</map>

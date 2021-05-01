@@ -1,0 +1,11 @@
+<map id="TMPro.TMP_UpdateManager.RegisterTextElementForGraphicRebuild" name="TMPro.TMP_UpdateManager.RegisterTextElementForGraphicRebuild">
+<area shape="rect" id="node1" title="Function to register elements which require a layout rebuild." alt="" coords="791,148,997,204"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro.html#a8ca7b09fd7f2319069c84e72c0db0fa8" title="Schedule rebuilding of the text geometry." alt="" coords="529,155,743,197"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae6a678bcadc435d05afa59758e5b70f4" title="Function called internally when a new material is assigned via the fontMaterial property." alt="" coords="263,5,475,32"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro.html#a63606af11bff27b7a0f6354c8568815b" title=" " alt="" coords="261,57,476,98"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro.html#a65ff2fbd27378e530d78792ef5c517e0" title=" " alt="" coords="273,122,464,163"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro.html#a1b05e716ed23eef4ea21df60889a0ae1" title=" " alt="" coords="259,187,478,229"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_text_mesh_pro.html#a28274571ae3e165a5db057949ae2f3ea" title=" " alt="" coords="279,253,459,294"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_t_m_p___sub_mesh.html#a130186768b0a54f84638d3b90d3f26a7" title=" " alt="" coords="256,318,481,359"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_text_mesh_pro.html#a4d5bc19335502eec964edd5fd7c71f2f" title=" " alt="" coords="5,260,208,287"/>
+</map>

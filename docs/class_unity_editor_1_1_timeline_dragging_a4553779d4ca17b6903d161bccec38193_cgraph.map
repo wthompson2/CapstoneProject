@@ -1,0 +1,10 @@
+<map id="UnityEditor.TimelineDragging.DoDrag" name="UnityEditor.TimelineDragging.DoDrag">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,199,211"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_dragging.html#a1b8c0988cdfedd8d75c509d2dd2e75ea" title=" " alt="" coords="247,71,476,112"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_dragging.html#a687c347694a64d20d8211ae692d0f18e" title=" " alt="" coords="249,136,473,177"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_dragging.html#a171a4bff35b807a16cd43d20030e907c" title=" " alt="" coords="265,201,458,243"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_dragging.html#a70fa06925d28c9026db00e39bb9bf5cb" title=" " alt="" coords="265,267,458,308"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#a502d5d05908fc38b5e72c64381fd9c28" title="Creates a marker track for the TimelineAsset." alt="" coords="563,5,759,47"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_dragging.html#ab77ca13bf7a8e96a13d3c6c5c188fc47" title="Handles drag and drop of a mono script." alt="" coords="533,71,790,112"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_dragging.html#a5b8832c7ce70e10bbf74df506b4c216b" title=" " alt="" coords="524,136,799,177"/>
+</map>

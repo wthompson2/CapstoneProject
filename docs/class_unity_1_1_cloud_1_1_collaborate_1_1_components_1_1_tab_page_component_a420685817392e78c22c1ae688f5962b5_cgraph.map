@@ -1,0 +1,5 @@
+<map id="Unity.Cloud.Collaborate.Components.TabPageComponent.SetActive" name="Unity.Cloud.Collaborate.Components.TabPageComponent.SetActive">
+<area shape="rect" id="node1" title="Set active status of this page." alt="" coords="5,45,225,101"/>
+<area shape="rect" id="node2" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_components_1_1_tab_page_component.html#a31135e2a958a6a53cf5bfc28adf931a4" title="Set this tab page active." alt="" coords="273,5,493,61"/>
+<area shape="rect" id="node3" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_components_1_1_tab_page_component.html#a38edb9bf66fb8252a17fb029889c48c2" title="Set this tab page inactive." alt="" coords="273,85,493,141"/>
+</map>

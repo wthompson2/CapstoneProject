@@ -1,0 +1,7 @@
+<map id="TMPro.TextMeshProUGUI.GetMaterial" name="TMPro.TextMeshProUGUI.GetMaterial">
+<area shape="rect" id="node1" title="Function called internally when a new material is assigned via the fontMaterial property." alt="" coords="5,104,203,145"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a427ecf798a6c03dd9f3230b3ceaf1f61" title="Method to set the materials of the text and sub text objects." alt="" coords="251,5,461,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text.html#a7182ea72ca6b396af6cae05cee59243d" title="Get the padding value for the currently assigned material" alt="" coords="259,71,453,112"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#af75e3f762ed8c445cc4ad100903b5cf1" title=" " alt="" coords="258,136,454,177"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#acc18f45edf09f79d04d6a9e461633d7c" title=" " alt="" coords="258,201,454,243"/>
+</map>

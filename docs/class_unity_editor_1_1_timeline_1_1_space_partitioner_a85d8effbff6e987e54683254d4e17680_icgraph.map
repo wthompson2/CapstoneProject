@@ -1,0 +1,10 @@
+<map id="UnityEditor.Timeline.SpacePartitioner.AddBounds" name="UnityEditor.Timeline.SpacePartitioner.AddBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="483,169,661,211"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_timeline_clip_handle.html#abaa5eedef1a65c08214c9d5dcff270fc" title=" " alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_inline_curve_editor.html#a9ff42cdd3346e917053dbe1a6af1684c" title=" " alt="" coords="253,71,425,112"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_inline_curve_resize_handle.html#a0472b6e4a62d9f225577ca6a4f749c67" title=" " alt="" coords="253,136,425,177"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_track_resize_handle.html#a22e47da99262d93540b73ce7f3c830b8" title=" " alt="" coords="252,201,427,243"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_header_g_u_i.html#a4022d171772644b993a12fdad1b42c8c" title=" " alt="" coords="244,267,435,308"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_g_u_i.html#af1a7dbb45ab73a42770f5c17c27a1776" title=" " alt="" coords="244,332,435,373"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_cluster_g_u_i.html#ad67b7bf104ce44ad188f33667bf69177" title=" " alt="" coords="5,332,196,373"/>
+</map>

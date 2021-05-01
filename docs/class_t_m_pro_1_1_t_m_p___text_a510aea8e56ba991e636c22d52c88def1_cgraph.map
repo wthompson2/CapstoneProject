@@ -1,0 +1,6 @@
+<map id="TMPro.TMP_Text.InsertNewLine" name="TMPro.TMP_Text.InsertNewLine">
+<area shape="rect" id="node1" title="Function used in conjunction with GetTextInfo to figure out Array allocations." alt="" coords="5,78,213,105"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a423bcbf346f99fef8d457316729c95da" title="Method to adjust line spacing as a result of using different fonts or font point size." alt="" coords="288,5,476,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text.html#ab4057d4bf48b3f95e69bd3146a9fc50e" title="Function to increase the size of the Line Extents Array." alt="" coords="287,71,477,112"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___text.html#af4575fb91d41221be3bd2764a356eda1" title="Save the State of various variables used in the mesh creation loop in conjunction with Word Wrapping" alt="" coords="261,136,503,177"/>
+</map>

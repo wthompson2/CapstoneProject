@@ -1,0 +1,10 @@
+<map id="UnityEditor.Timeline.TimelineTrackGUI.TimelineTrackGUI" name="UnityEditor.Timeline.TimelineTrackGUI.TimelineTrackGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,119,196,161"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_custom_timeline_editor_cache.html#a5f836969e1e7bc863abcf896cbe3e91a" title=" " alt="" coords="244,5,483,61"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_custom_timeline_editor_cache.html#aae5081f889dccc72e79757a88c2948aa" title=" " alt="" coords="247,86,479,127"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a3d36fb306a9a0ee9b15dff285d330036" title="Implement this method to override the default options for drawing a track." alt="" coords="276,151,451,193"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html#a045b38950018963daf74c8408910c922" title=" " alt="" coords="268,217,459,258"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#aea1e22bf8942adb19f776b525c933433" title="Gets the error text for the specified track." alt="" coords="531,119,705,161"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a172572f84be2d2b7c756da8a91b8b8ba" title="Gets the color information of a track." alt="" coords="531,185,705,226"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a1eb8c0c3c958c9c3a890028bdcb6fcf8" title="Gets the binding type for a track." alt="" coords="753,119,928,161"/>
+</map>

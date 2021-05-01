@@ -1,0 +1,19 @@
+<map id="TMPro.TMP_Text.GetPaddingForMaterial" name="TMPro.TMP_Text.GetPaddingForMaterial">
+<area shape="rect" id="node1" title="Get the padding value for the currently assigned material" alt="" coords="531,351,725,393"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae6a678bcadc435d05afa59758e5b70f4" title="Function called internally when a new material is assigned via the fontMaterial property." alt="" coords="271,5,483,32"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a51ff5f00ca136e0cb8c8865bb6e6ede9" title="Function called internally when a new material is assigned via the fontMaterial property." alt="" coords="278,57,475,98"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro.html#a5bb3ac2d25483c61b10064917225ca59" title="Method which derived classes need to override to load Font Assets." alt="" coords="277,122,476,163"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aedbf6c9aaf6c104ac7c81e85d99498b4" title="Method which derived classes need to override to load Font Assets." alt="" coords="275,187,479,229"/>
+<area shape="rect" id="node10" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ab485c4e2bf309a9485360a19de950fa2" title="Function called internally to set the face color of the material. This will results in an instance of..." alt="" coords="279,253,475,294"/>
+<area shape="rect" id="node11" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ab6bfded8873a3c3aea4639932ec6f4b7" title="Function called internally to set the outline color of the material. This will results in an instance..." alt="" coords="279,318,475,359"/>
+<area shape="rect" id="node12" href="$class_t_m_pro_1_1_text_mesh_pro.html#a056fd074419594f0dde096f9b264dc90" title="Function called internally to set the outline thickness property of the material. This will results i..." alt="" coords="273,383,480,425"/>
+<area shape="rect" id="node13" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a2f3dda7925344d1798b83d85e8c81361" title="Function called internally to set the outline thickness property of the material. This will results i..." alt="" coords="279,449,475,490"/>
+<area shape="rect" id="node14" href="$class_t_m_pro_1_1_text_mesh_pro.html#a50256541f1e533a8fd3fd4b7830936d8" title="Function called internally when a new shared material is assigned via the fontSharedMaterial property..." alt="" coords="273,514,480,555"/>
+<area shape="rect" id="node15" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a37642717b05a3ef8cb0eaa004b2f00bc" title="Function called internally when a new shared material is assigned via the fontSharedMaterial property..." alt="" coords="279,579,475,621"/>
+<area shape="rect" id="node16" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3d7d7fcab89d108d86a0bb463604267d" title="Method used to assign new materials to the text and sub text objects." alt="" coords="273,645,480,686"/>
+<area shape="rect" id="node17" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a9ca66d291221a6ee6a9aeaf7944a647d" title="Method used to assign new materials to the text and sub text objects." alt="" coords="279,710,475,751"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro.html#a941d6ec780b9e2735b52ab08392f7905" title=" " alt="" coords="22,73,206,100"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro.html#abd4d7b6017050265bade2ed033d6d781" title=" " alt="" coords="21,125,207,166"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a68396208120ce895ce53db26b8779c35" title=" " alt="" coords="7,193,221,220"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ac38b46e6697cbc9e1f8ba43350e97469" title=" " alt="" coords="5,245,223,286"/>
+</map>

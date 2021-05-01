@@ -1,0 +1,8 @@
+<map id="UnityEditor.Timeline.ITimelineItem" name="UnityEditor.Timeline.ITimelineItem">
+<area shape="rect" id="node1" title=" " alt="" coords="236,56,455,83"/>
+<area shape="rect" id="node3" href="$interface_unity_editor_1_1_timeline_1_1_i_blendable.html" title=" " alt="" coords="505,5,707,32"/>
+<area shape="rect" id="node5" href="$interface_unity_editor_1_1_timeline_1_1_i_trimmable.html" title=" " alt="" coords="503,56,709,83"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_marker_item.html" title=" " alt="" coords="503,107,709,133"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,56,188,83"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_clip_item.html" title=" " alt="" coords="757,31,947,57"/>
+</map>

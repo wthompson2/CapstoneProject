@@ -1,0 +1,11 @@
+<map id="UnityEditor.Timeline.TimelineTrackGUI" name="UnityEditor.Timeline.TimelineTrackGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="273,421,464,463"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html" title=" " alt="" coords="143,345,269,372"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html" title=" " alt="" coords="33,249,187,275"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node5" href="$interface_unity_editor_1_1_timeline_1_1_i_bounds.html" title=" " alt="" coords="130,5,199,32"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_director_styles.html" title=" " alt="" coords="211,241,398,283"/>
+<area shape="rect" id="node7" title=" " alt="" coords="277,5,332,32"/>
+<area shape="rect" id="node8" href="$interface_unity_editor_1_1_timeline_1_1_i_clip_curve_editor_owner.html" title=" " alt="" coords="293,345,444,372"/>
+<area shape="rect" id="node9" href="$interface_unity_editor_1_1_timeline_1_1_i_row_g_u_i.html" title=" " alt="" coords="469,345,541,372"/>
+</map>

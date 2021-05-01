@@ -1,0 +1,6 @@
+<map id="UnityEngine.Timeline.TrackAsset.GetChildTracks" name="UnityEngine.Timeline.TrackAsset.GetChildTracks">
+<area shape="rect" id="node1" title="The list of subtracks or child tracks attached to this track." alt="" coords="256,71,436,112"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#ae811f0b439c896f971ae476c7997d4a0" title="Deletes a track from a timeline, including all clips and subtracks." alt="" coords="9,5,205,47"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_track_asset.html#a6a160f0771a5271317c914e98ff63c62" title="Called by the Timeline Editor to gather properties requiring preview." alt="" coords="17,71,197,112"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_group_track_inspector.html#ab213a0268b393fac32e9595f3145f92d" title=" " alt="" coords="5,136,208,177"/>
+</map>

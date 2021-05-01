@@ -1,0 +1,6 @@
+<map id="UnityEditor.TimelineDragging.HandleClipPaneObjectDragAndDrop" name="UnityEditor.TimelineDragging.HandleClipPaneObjectDragAndDrop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,235,112"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#a502d5d05908fc38b5e72c64381fd9c28" title="Creates a marker track for the TimelineAsset." alt="" coords="322,5,518,47"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_dragging.html#ab77ca13bf7a8e96a13d3c6c5c188fc47" title="Handles drag and drop of a mono script." alt="" coords="291,71,549,112"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_dragging.html#a5b8832c7ce70e10bbf74df506b4c216b" title=" " alt="" coords="283,136,557,177"/>
+</map>

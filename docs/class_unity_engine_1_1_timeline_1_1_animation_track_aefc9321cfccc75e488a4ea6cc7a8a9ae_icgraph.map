@@ -1,0 +1,6 @@
+<map id="UnityEngine.Timeline.AnimationTrack.CreateClip" name="UnityEngine.Timeline.AnimationTrack.CreateClip">
+<area shape="rect" id="node1" title="Creates a TimelineClip on this track that uses an AnimationClip." alt="" coords="776,5,983,47"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_animation_track.html#ad32f07442ffee64b07211ee7936ad149" title="Creates a TimelineClip, AnimationPlayableAsset and an AnimationClip. Use this clip to record in a tim..." alt="" coords="521,5,728,47"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#ae9a7eb659ce6f6bf1b2dacdb659d7bb7" title=" " alt="" coords="253,5,473,47"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#aaa1833fd02ef8ae07e3ed534f155e97d" title=" " alt="" coords="5,5,205,47"/>
+</map>

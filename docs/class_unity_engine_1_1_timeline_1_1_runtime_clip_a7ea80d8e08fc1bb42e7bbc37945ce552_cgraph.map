@@ -1,0 +1,10 @@
+<map id="UnityEngine.Timeline.RuntimeClip.EvaluateAt" name="UnityEngine.Timeline.RuntimeClip.EvaluateAt">
+<area shape="rect" id="node1" title=" " alt="" coords="5,188,201,229"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#ab3ed921d48ee9b5b49a2a8577ce3c513" title="Given a time, returns the weight from the mix in" alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a2f40592786d437df0032d9b318947220" title="Given a time, returns the weight from the mix out" alt="" coords="249,71,445,112"/>
+<area shape="rect" id="node4" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a7f54df7e4c0accdefa6dfbc83068083e" title="Given a time, returns whether it falls within the clip post&#45;extrapolation" alt="" coords="493,159,689,200"/>
+<area shape="rect" id="node5" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a9b9ff4aba84f327c2822983ac3cdf50b" title="Given a time, returns whether it falls within the clip pre&#45;extrapolation" alt="" coords="493,285,689,327"/>
+<area shape="rect" id="node6" href="$class_unity_engine_1_1_timeline_1_1_runtime_clip.html#af1030424e6fceac564f3e33e735db5fd" title=" " alt="" coords="249,253,445,295"/>
+<area shape="rect" id="node7" href="$class_unity_engine_1_1_timeline_1_1_runtime_clip.html#a83be86440f6899d1f846bcd80cfc6061" title=" " alt="" coords="249,319,445,360"/>
+<area shape="rect" id="node8" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a0e93badf4d11e12235eec8e938263184" title="Converts from global time to a clips local time." alt="" coords="249,188,445,229"/>
+</map>

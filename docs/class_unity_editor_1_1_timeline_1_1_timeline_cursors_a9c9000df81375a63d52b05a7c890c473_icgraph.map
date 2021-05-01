@@ -1,0 +1,13 @@
+<map id="UnityEditor.Timeline.TimelineCursors.ClearCursor" name="UnityEditor.Timeline.TimelineCursors.ClearCursor">
+<area shape="rect" id="node1" title=" " alt="" coords="471,235,661,276"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_move_item_mode_mix.html#a3bd82d106943e3dc384cebfd98058e8c" title=" " alt="" coords="241,5,413,47"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_move_item_mode_replace.html#a0c2bfbfbf293a8d34d7348e95c232609" title=" " alt="" coords="237,71,418,112"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_trim_item_mode_mix.html#a97e548f9e61cd100f4fd77a7535d8b70" title=" " alt="" coords="244,136,411,177"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_trim_item_mode_replace.html#a187ad450b9df0556e0f3210c9d959462" title=" " alt="" coords="237,201,418,243"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_ease_clip.html#af3bd03bd3eef85b9bd1b4230816a1807" title=" " alt="" coords="241,267,413,308"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_1_1_select_and_move_item.html#aecb8a0d92c548adb53b2ccc269fac49b" title=" " alt="" coords="238,332,417,373"/>
+<area shape="rect" id="node9" href="$class_unity_editor_1_1_timeline_1_1_timeline_pan_manipulator.html#a583be58ebaab178c375f587050241efa" title=" " alt="" coords="232,397,423,439"/>
+<area shape="rect" id="node10" href="$class_unity_editor_1_1_timeline_1_1_move_item_handler.html#ad8bec61d6764d51dc980d8b33f261329" title=" " alt="" coords="241,463,413,504"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_1_1_select_and_move_item.html#acc43f51dc81e97926496cbcd5f3d0056" title=" " alt="" coords="5,332,184,373"/>
+<area shape="rect" id="node11" href="$class_unity_editor_1_1_timeline_1_1_select_and_move_item.html#ad5d4f7cc6db5e644894ab1bc095b2dfc" title=" " alt="" coords="5,463,184,504"/>
+</map>

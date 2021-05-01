@@ -1,0 +1,15 @@
+<map id="UnityEditor.Timeline.WindowState.PixelToTime" name="UnityEditor.Timeline.WindowState.PixelToTime">
+<area shape="rect" id="node1" title=" " alt="" coords="717,233,905,275"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#ab85b38edb8da83b1867273ce79bd36a5" title=" " alt="" coords="467,37,669,79"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_timeline_zoom_manipulator.html#ae000b074a1093c89215db745abd9603f" title=" " alt="" coords="470,103,666,144"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_timeline_zoom_manipulator.html#a4214baeb3bcbf2f5df40a632d3bd9d76" title=" " alt="" coords="467,168,669,209"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_1_1_rectangle_zoom.html#a9273e391ce4168ce646878db4a0bfed3" title=" " alt="" coords="468,233,668,275"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a931c9a7c353584119fd61853d88f561d" title=" " alt="" coords="474,299,662,340"/>
+<area shape="rect" id="node12" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a63e22e0de474b9cbaf150f24694bd004" title=" " alt="" coords="474,364,662,405"/>
+<area shape="rect" id="node13" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a7f316d2cd49fe6eeec5c60a432dd4611" title=" " alt="" coords="474,429,662,471"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_goto_start_action.html#a966acf7e7f221224d3ccc48c053c160d" title=" " alt="" coords="246,5,417,47"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_goto_end_action.html#aa3a4b3a9e457f78f62d1346c1106f355" title=" " alt="" coords="246,71,417,112"/>
+<area shape="rect" id="node9" href="$class_unity_editor_1_1_timeline_1_1_items_layer.html#a87a723310018b3c8cf0749452662fcf7" title=" " alt="" coords="244,265,419,307"/>
+<area shape="rect" id="node11" href="$class_unity_editor_1_1_timeline_1_1_ease_clip.html#abc041c1f6de46e2fbe806eedebff895b" title=" " alt="" coords="245,331,417,372"/>
+<area shape="rect" id="node10" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_header_g_u_i.html#a4022d171772644b993a12fdad1b42c8c" title=" " alt="" coords="5,265,196,307"/>
+</map>

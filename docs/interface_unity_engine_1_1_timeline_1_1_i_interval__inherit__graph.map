@@ -1,0 +1,8 @@
+<map id="UnityEngine.Timeline.IInterval" name="UnityEngine.Timeline.IInterval">
+<area shape="rect" id="node1" title=" " alt="" coords="109,5,300,32"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_runtime_element.html" title=" " alt="" coords="107,80,303,121"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_infinite_runtime_clip.html" title="Runtime clip customized for &#39;infinite&#39; tracks playables. Used for clips whose time needs to match the..." alt="" coords="5,169,191,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="215,169,411,211"/>
+<area shape="rect" id="node5" href="$class_unity_engine_1_1_timeline_1_1_runtime_clip.html" title=" " alt="" coords="86,266,305,293"/>
+<area shape="rect" id="node6" title=" " alt="" coords="329,259,531,300"/>
+</map>

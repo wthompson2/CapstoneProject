@@ -1,0 +1,6 @@
+<map id="TMPro.TMP_TextParsingUtilities.ToUpperASCIIFast" name="TMPro.TMP_TextParsingUtilities.ToUpperASCIIFast">
+<area shape="rect" id="node1" title="Get uppercase version of this ASCII character." alt="" coords="523,35,737,76"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text_parsing_utilities.html#a77bb7b39afef3f677e915499b48e2c7a" title="Function returning the hashcode value of a given string." alt="" coords="260,35,475,76"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___style_sheet.html#a0766b88921d3c2fe462608796af79b1f" title="Get the Style for the given name." alt="" coords="15,5,202,47"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___style.html#a45cd2cf30f163d32c1bfa91914852154" title="Function to update the content of the int[] resulting from changes to OpeningDefinition &amp; ClosingDefi..." alt="" coords="5,71,212,98"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEditor.Timeline.AnimationTrackRecorder.PrepareTrack" name="UnityEditor.Timeline.AnimationTrackRecorder.PrepareTrack">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,205,145"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#ae9a7eb659ce6f6bf1b2dacdb659d7bb7" title=" " alt="" coords="253,71,473,112"/>
+<area shape="rect" id="node7" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a5a65196511de2353627a38bd9e6e09e2" title="Converts from global time to local time of the clip" alt="" coords="265,136,461,177"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_animation_track.html#ad32f07442ffee64b07211ee7936ad149" title="Creates a TimelineClip, AnimationPlayableAsset and an AnimationClip. Use this clip to record in a tim..." alt="" coords="559,5,766,47"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#a025d52cd573004d95ad0daec992f0194" title=" " alt="" coords="521,71,804,112"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a773c3585d8ee2c63765f06afa6536990" title=" " alt="" coords="569,136,757,177"/>
+<area shape="rect" id="node4" href="$class_unity_engine_1_1_timeline_1_1_animation_track.html#aefc9321cfccc75e488a4ea6cc7a8a9ae" title="Creates a TimelineClip on this track that uses an AnimationClip." alt="" coords="852,5,1059,47"/>
+</map>

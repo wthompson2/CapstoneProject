@@ -1,0 +1,5 @@
+<map id="UnityEngine.Timeline.TimelineClip.IsExtrapolatedTime" name="UnityEngine.Timeline.TimelineClip.IsExtrapolatedTime">
+<area shape="rect" id="node1" title="Given a time, returns whether it falls within the clips extrapolation" alt="" coords="5,39,201,80"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a7f54df7e4c0accdefa6dfbc83068083e" title="Given a time, returns whether it falls within the clip post&#45;extrapolation" alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node3" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a9b9ff4aba84f327c2822983ac3cdf50b" title="Given a time, returns whether it falls within the clip pre&#45;extrapolation" alt="" coords="249,71,445,112"/>
+</map>

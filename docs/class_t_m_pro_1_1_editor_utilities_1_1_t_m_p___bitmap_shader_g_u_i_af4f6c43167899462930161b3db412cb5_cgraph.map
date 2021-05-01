@@ -1,0 +1,5 @@
+<map id="TMPro.EditorUtilities.TMP_BitmapShaderGUI.DoGUI" name="TMPro.EditorUtilities.TMP_BitmapShaderGUI.DoGUI">
+<area shape="rect" id="node1" title="Override this method to create the specific shader GUI." alt="" coords="5,39,180,80"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_shader_g_u_i.html#a025663da6334820f0831da1f2b93acb4" title=" " alt="" coords="228,5,420,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_shader_g_u_i.html#ae4663303cae2be2a85d7e82475743902" title=" " alt="" coords="233,71,415,112"/>
+</map>

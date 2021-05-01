@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_unity_standard_assets_1_1_utility_1_1_camera_refocus.html" title=" " alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,145,105"/>
+<area shape="rect" id="node2" href="$class_packages_1_1_rider_1_1_editor_1_1_post_processors_1_1_rider_asset_postprocessor.html" title=" " alt="" coords="193,5,433,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_editor_utilities_1_1_font_asset_post_processor.html" title="Asset post processor used to handle font assets getting updated outside of the Unity editor." alt="" coords="228,71,399,112"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_pro___texture_post_processor.html" title=" " alt="" coords="222,136,405,177"/>
 </map>

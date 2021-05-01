@@ -1,0 +1,4 @@
+<map id="UnityEngine.Timeline.TimelineAsset.GatherProperties" name="UnityEngine.Timeline.TimelineAsset.GatherProperties">
+<area shape="rect" id="node1" title="Called by the Timeline Editor to gather properties requiring preview." alt="" coords="261,5,457,47"/>
+<area shape="rect" id="node2" href="$class_unity_engine_1_1_timeline_1_1_control_playable_asset.html#a56ee156f040a4606f873e2580b305512" title="Called by the Timeline Editor to gather properties requiring preview." alt="" coords="5,5,213,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TMPro.ITextPreprocessor.PreprocessText" name="TMPro.ITextPreprocessor.PreprocessText">
+<area shape="rect" id="node1" title="Function used for preprocessing of text" alt="" coords="1031,64,1204,105"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#abf101b7be511178e9d0d6999dcd26977" title="Method to parse the input text based on its source" alt="" coords="768,71,983,98"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text.html#a754e5a230232f1ed55615e55a3ed32ad" title="Method to calculate the preferred height of a text object." alt="" coords="520,5,720,47"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___text.html#a9d3dbcb6ccf3ef97454b5ec89725eccb" title="Function to Calculate the Preferred Width and Height of the text object." alt="" coords="272,64,472,105"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_t_m_p___text.html#abb5c80b9a45b89007024c857593e12c8" title="Method to calculate the preferred width of a text object." alt="" coords="520,123,720,164"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro.html#a8ea12a256e97a7ab1d66945b5f3a0a88" title=" " alt="" coords="21,46,209,73"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a963457c98b96eb2387dd43d40a7dcc57" title=" " alt="" coords="5,97,224,123"/>
+</map>

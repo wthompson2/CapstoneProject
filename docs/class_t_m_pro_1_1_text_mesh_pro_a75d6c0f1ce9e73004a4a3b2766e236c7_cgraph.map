@@ -1,0 +1,5 @@
+<map id="TMPro.TextMeshPro.OnDisable" name="TMPro.TextMeshPro.OnDisable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,211,73"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro.html#a47054b0daf19b59c438eb804917997ab" title="Method to Enable or Disable child SubMesh objects." alt="" coords="269,5,469,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___update_manager.html#a230503254fd8d8ebc2ba1849ff30dad8" title="Function to unregister elements which no longer require a rebuild." alt="" coords="259,71,480,112"/>
+</map>

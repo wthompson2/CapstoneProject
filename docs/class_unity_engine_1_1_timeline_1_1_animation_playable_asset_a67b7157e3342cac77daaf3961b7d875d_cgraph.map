@@ -1,0 +1,4 @@
+<map id="UnityEngine.Timeline.AnimationPlayableAsset.GatherProperties" name="UnityEngine.Timeline.AnimationPlayableAsset.GatherProperties">
+<area shape="rect" id="node1" title="Called by the Timeline Editor to gather properties requiring preview." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$interface_unity_engine_1_1_timeline_1_1_i_property_collector.html#a27aea0bc726093b14a609f2a1d20a0a3" title="Add properties modified by an animation clip." alt="" coords="261,5,461,47"/>
+</map>

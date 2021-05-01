@@ -1,0 +1,9 @@
+<map id="TMPro.TMP_Text.GetSpecialCharacters" name="TMPro.TMP_Text.GetSpecialCharacters">
+<area shape="rect" id="node1" title="Method used to find and cache references to the Underline and Ellipsis characters." alt="" coords="523,89,713,130"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_text_mesh_pro.html#a5bb3ac2d25483c61b10064917225ca59" title="Method which derived classes need to override to load Font Assets." alt="" coords="273,55,472,97"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aedbf6c9aaf6c104ac7c81e85d99498b4" title="Method which derived classes need to override to load Font Assets." alt="" coords="271,121,475,162"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro.html#a941d6ec780b9e2735b52ab08392f7905" title=" " alt="" coords="22,5,206,32"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro.html#abd4d7b6017050265bade2ed033d6d781" title=" " alt="" coords="21,57,207,98"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a68396208120ce895ce53db26b8779c35" title=" " alt="" coords="7,125,221,152"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ac38b46e6697cbc9e1f8ba43350e97469" title=" " alt="" coords="5,177,223,218"/>
+</map>

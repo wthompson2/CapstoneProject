@@ -1,0 +1,5 @@
+<map id="TMPro.TMP_StyleSheet.GetStyle" name="TMPro.TMP_StyleSheet.GetStyle">
+<area shape="rect" id="node1" title="Get the Style for the given name." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text_parsing_utilities.html#a77bb7b39afef3f677e915499b48e2c7a" title="Function returning the hashcode value of a given string." alt="" coords="240,5,455,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text_parsing_utilities.html#a57e8e32bda8815e697db41cb4820d56a" title="Get uppercase version of this ASCII character." alt="" coords="503,5,717,47"/>
+</map>

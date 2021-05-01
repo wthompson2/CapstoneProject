@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_InputField.Append" name="TMPro.TMP_InputField.Append">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,208,73"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a1ac4c595e5f686b371e27745b0a2c99b" title="Update the visual text Text." alt="" coords="259,8,458,49"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___input_field.html#afd6552ded1ac4de1c4efd868bdc66a33" title="Validate the specified input." alt="" coords="256,75,461,102"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text.html#acc79714f2b21eff7b784d8282a6f7756" title="Function to force regeneration of the text object before its normal process time. This is useful when..." alt="" coords="509,5,701,47"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___input_validator.html#acb188d784d649daf3a0fac22d2c56738" title=" " alt="" coords="515,71,696,112"/>
+</map>

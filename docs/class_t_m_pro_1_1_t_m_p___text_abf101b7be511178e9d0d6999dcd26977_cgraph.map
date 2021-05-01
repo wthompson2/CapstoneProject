@@ -1,0 +1,10 @@
+<map id="TMPro.TMP_Text.ParseInputText" name="TMPro.TMP_Text.ParseInputText">
+<area shape="rect" id="node1" title="Method to parse the input text based on its source" alt="" coords="5,107,220,134"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a6d53cd25d63debfdf935d1a8c6f80fd8" title="Copies Content of formatted SetText() to charBuffer." alt="" coords="284,5,469,47"/>
+<area shape="rect" id="node3" href="$interface_t_m_pro_1_1_i_text_preprocessor.html#a211b26c6e7a5eec73c08ab268289c38a" title="Function used for preprocessing of text" alt="" coords="290,71,463,112"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_t_m_p___text.html#aae071dbc72453798f55d616867d137c4" title="Method used to determine the number of visible characters and required buffer allocations." alt="" coords="271,137,482,163"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_t_m_p___text.html#a0e45cd8e4f33d123b9068ba75cff441f" title="Method to store the content of a string into an integer array." alt="" coords="268,188,485,229"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_t_m_p___text.html#ac300ce0327de1c0807c6617496b367cb" title="Convert UTF&#45;16 Hex to Char" alt="" coords="533,170,720,197"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_t_m_p___text.html#add381cfff574155b2b44eddc9fedd883" title="Convert UTF&#45;32 Hex to Char" alt="" coords="533,221,720,247"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_t_m_p___text.html#a2c888ce3a21999d51131753730cac678" title="Function to pack scale information in the UV2 Channel." alt="" coords="768,195,947,222"/>
+</map>

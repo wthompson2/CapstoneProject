@@ -1,0 +1,5 @@
+<map id="TMPro.TextMeshProUGUI.SetOutlineThickness" name="TMPro.TextMeshProUGUI.SetOutlineThickness">
+<area shape="rect" id="node1" title="Function called internally to set the outline thickness property of the material. This will results i..." alt="" coords="5,39,201,80"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a427ecf798a6c03dd9f3230b3ceaf1f61" title="Method to set the materials of the text and sub text objects." alt="" coords="249,5,460,47"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_t_m_p___text.html#a7182ea72ca6b396af6cae05cee59243d" title="Get the padding value for the currently assigned material" alt="" coords="257,71,452,112"/>
+</map>

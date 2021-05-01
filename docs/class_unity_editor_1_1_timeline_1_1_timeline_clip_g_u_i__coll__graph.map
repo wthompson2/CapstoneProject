@@ -1,0 +1,11 @@
+<map id="UnityEditor.Timeline.TimelineClipGUI" name="UnityEditor.Timeline.TimelineClipGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="263,421,453,463"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_timeline_item_g_u_i.html" title=" " alt="" coords="70,345,187,372"/>
+<area shape="rect" id="node3" href="$interface_unity_editor_1_1_timeline_1_1_i_selectable.html" title=" " alt="" coords="5,249,92,275"/>
+<area shape="rect" id="node4" href="$interface_unity_editor_1_1_timeline_1_1_i_layerable.html" title=" " alt="" coords="8,5,89,32"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_director_styles.html" title=" " alt="" coords="117,241,303,283"/>
+<area shape="rect" id="node6" title=" " alt="" coords="183,5,237,32"/>
+<area shape="rect" id="node7" href="$interface_unity_editor_1_1_timeline_1_1_i_clip_curve_editor_owner.html" title=" " alt="" coords="212,345,363,372"/>
+<area shape="rect" id="node8" href="$interface_unity_editor_1_1_timeline_1_1_i_snappable.html" title=" " alt="" coords="387,345,473,372"/>
+<area shape="rect" id="node9" href="$interface_unity_editor_1_1_timeline_1_1_i_attractable.html" title=" " alt="" coords="498,345,586,372"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TMPro.TMP_SpriteAsset.GetSpriteIndexFromHashcode" name="TMPro.TMP_SpriteAsset.GetSpriteIndexFromHashcode">
+<area shape="rect" id="node1" title="Function which returns the sprite index using the hashcode of the name" alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html#ac0d576c7ae191d74887684c5388ca32a" title="Function to update the sprite name and unicode lookup tables. This function should be called when a s..." alt="" coords="244,5,455,47"/>
+</map>

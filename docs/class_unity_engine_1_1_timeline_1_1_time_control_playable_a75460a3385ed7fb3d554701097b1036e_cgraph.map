@@ -1,0 +1,4 @@
+<map id="UnityEngine.Timeline.TimeControlPlayable.OnBehaviourPlay" name="UnityEngine.Timeline.TimeControlPlayable.OnBehaviourPlay">
+<area shape="rect" id="node1" title="This function is called when the Playable play state is changed to Playables.PlayState...." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node2" href="$interface_unity_engine_1_1_timeline_1_1_i_time_control.html#a794f2a46049fb4575d0e592b4a86fb7e" title="Called when the associated Timeline clip becomes active." alt="" coords="269,5,451,47"/>
+</map>

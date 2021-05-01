@@ -1,0 +1,4 @@
+<map id="TMPro.TMP_Text.SetText" name="TMPro.TMP_Text.SetText">
+<area shape="rect" id="node1" title="Set the text using a char array with specified starting character and length." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a3a9c8337c13ec0b01a256657b60f995d" title="Character array containing the text to be displayed." alt="" coords="225,5,431,32"/>
+</map>

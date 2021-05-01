@@ -1,0 +1,4 @@
+<map id="UnityEngine.Timeline.TimeControlPlayable.OnBehaviourPause" name="UnityEngine.Timeline.TimeControlPlayable.OnBehaviourPause">
+<area shape="rect" id="node1" title="This function is called when the Playable play state is changed to PlayState.Paused." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$interface_unity_engine_1_1_timeline_1_1_i_time_control.html#a2f7806fb91e9a958735766ca8c81e0c1" title="Called when the associated Timeline clip becomes deactivated." alt="" coords="280,5,460,47"/>
+</map>

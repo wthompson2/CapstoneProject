@@ -1,0 +1,13 @@
+<map id="TMPro.TMP_MeshInfo.ResizeMeshInfo" name="TMPro.TMP_MeshInfo.ResizeMeshInfo">
+<area shape="rect" id="node1" title="Function to resized the content of MeshData and re&#45;assign normals, tangents and triangles." alt="" coords="832,130,1027,172"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a5680800af216e0d2bc6022a4d6ade40b" title=" " alt="" coords="547,228,778,255"/>
+<area shape="rect" id="node7" href="$class_t_m_pro_1_1_t_m_p___text.html#a735c1a7bbfc899272bc80bb9175720cc" title="Method to add the underline geometry." alt="" coords="541,46,784,72"/>
+<area shape="rect" id="node8" href="$class_t_m_pro_1_1_t_m_p___text.html#a08f26a6f0ccce1042dc32f8a392f4c25" title="Store vertex attributes into the appropriate TMP_MeshInfo." alt="" coords="563,97,763,138"/>
+<area shape="rect" id="node9" href="$class_t_m_pro_1_1_t_m_p___text.html#a6f919375c12a3e03f3ded228043e9513" title="Fill Vertex Buffers for Sprites" alt="" coords="573,162,752,204"/>
+<area shape="rect" id="node10" href="$class_t_m_pro_1_1_text_mesh_pro.html#aca89de99dcd34f8ac176b0eb4f5c11a5" title="Method used to determine the number of visible characters and required buffer allocations." alt="" coords="281,10,477,52"/>
+<area shape="rect" id="node11" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a21f9430d070d5e79f87c6b62d41c571d" title="Method used to determine the number of visible characters and required buffer allocations." alt="" coords="281,249,477,290"/>
+<area shape="rect" id="node3" href="$class_t_m_pro_1_1_text_mesh_pro.html#aa98e9ced224ca5ce5e71cbf213645128" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="279,97,478,138"/>
+<area shape="rect" id="node5" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ae43d87969cffe98fbaea5edabc0d55dd" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="264,162,493,204"/>
+<area shape="rect" id="node4" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="5,62,216,88"/>
+<area shape="rect" id="node6" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="12,194,209,236"/>
+</map>

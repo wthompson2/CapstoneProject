@@ -1,0 +1,21 @@
+<map id="UnityEditor.Timeline.WindowState.Refresh" name="UnityEditor.Timeline.WindowState.Refresh">
+<area shape="rect" id="node1" title=" " alt="" coords="595,435,783,476"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_timeline_recording_contextual_responder.html#a819e37210739420394efcbbf72a0f943" title=" " alt="" coords="276,5,531,47"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#ae9a7eb659ce6f6bf1b2dacdb659d7bb7" title=" " alt="" coords="293,71,513,112"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_paste_action.html#a1893c7f614d1ca320125e29f6cb6acfc" title=" " alt="" coords="315,136,491,177"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_delete_action.html#a18fd59d476822d70ddf7295ed159caab" title=" " alt="" coords="314,201,493,243"/>
+<area shape="rect" id="node7" href="$class_unity_editor_1_1_timeline_1_1_split.html#a34222045c653b335b3c388043ebbcd26" title=" " alt="" coords="317,267,489,308"/>
+<area shape="rect" id="node8" href="$class_unity_editor_1_1_timeline_1_1_delete_tracks.html#a5eaa5d853a23f9c994dcb1b48598fd6b" title=" " alt="" coords="314,332,493,373"/>
+<area shape="rect" id="node9" href="$class_unity_editor_1_1_timeline_1_1_duplicate_tracks.html#af6adde4d5812ba21dd7dcbac946b663f" title=" " alt="" coords="305,397,501,439"/>
+<area shape="rect" id="node10" href="$class_unity_editor_1_1_timeline_1_1_timeline_recording_contextual_responder.html#ae0645004c320a89464de0310d48845bc" title=" " alt="" coords="284,463,523,519"/>
+<area shape="rect" id="node11" href="$class_unity_editor_1_1_timeline_1_1_timeline_recording_contextual_responder.html#a53f95a869711008bb5729be1d9158c50" title=" " alt="" coords="284,543,523,599"/>
+<area shape="rect" id="node12" href="$class_unity_editor_1_1_timeline_1_1_mute_selected_track.html#ac1d4b7db6604c58680864c0912e6626d" title=" " alt="" coords="318,624,489,665"/>
+<area shape="rect" id="node14" href="$class_unity_editor_1_1_timeline_1_1_mute_track.html#aa547622df3e5f0ac709422a51daccfb8" title=" " alt="" coords="318,689,489,731"/>
+<area shape="rect" id="node17" href="$class_unity_editor_1_1_timeline_1_1_time_field_drawer.html#a5e0151d9098f8ff39810616bd8e16d9b" title=" " alt="" coords="318,755,489,796"/>
+<area shape="rect" id="node18" href="$class_unity_editor_1_1_timeline_1_1_timeline_recording_contextual_responder.html#ad27f9f6b004a1948de542514ddc1aed7" title=" " alt="" coords="260,820,547,861"/>
+<area shape="rect" id="node19" href="$class_unity_editor_1_1_timeline_1_1_timeline_recording_contextual_responder.html#a23f7dca89b0e059e3b146b4b6201224a" title=" " alt="" coords="265,885,542,927"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#aaa1833fd02ef8ae07e3ed534f155e97d" title=" " alt="" coords="9,71,209,112"/>
+<area shape="rect" id="node13" href="$class_unity_editor_1_1_timeline_1_1_mute_selected_track.html#a37563ab4d0967a3be9dde0cef9e58e8d" title=" " alt="" coords="23,624,194,665"/>
+<area shape="rect" id="node15" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html#a216c859b1650722fd4f86c1abe2fab16" title=" " alt="" coords="5,689,212,731"/>
+<area shape="rect" id="node16" href="$class_unity_editor_1_1_timeline_1_1_mute_track.html#a89119181f0f3b2804fb5b50edb81405e" title=" " alt="" coords="23,755,194,796"/>
+</map>

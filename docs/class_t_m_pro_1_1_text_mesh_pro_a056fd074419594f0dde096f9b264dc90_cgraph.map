@@ -1,0 +1,4 @@
+<map id="TMPro.TextMeshPro.SetOutlineThickness" name="TMPro.TextMeshPro.SetOutlineThickness">
+<area shape="rect" id="node1" title="Function called internally to set the outline thickness property of the material. This will results i..." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$class_t_m_pro_1_1_t_m_p___text.html#a7182ea72ca6b396af6cae05cee59243d" title="Get the padding value for the currently assigned material" alt="" coords="260,5,455,47"/>
+</map>

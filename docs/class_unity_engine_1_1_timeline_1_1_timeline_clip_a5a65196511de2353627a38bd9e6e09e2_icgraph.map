@@ -1,0 +1,6 @@
+<map id="UnityEngine.Timeline.TimelineClip.ToLocalTimeUnbound" name="UnityEngine.Timeline.TimelineClip.ToLocalTimeUnbound">
+<area shape="rect" id="node1" title="Converts from global time to local time of the clip" alt="" coords="501,39,697,80"/>
+<area shape="rect" id="node2" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#aaa1833fd02ef8ae07e3ed534f155e97d" title=" " alt="" coords="253,5,453,47"/>
+<area shape="rect" id="node3" href="$class_unity_editor_1_1_timeline_1_1_sequence_state.html#aa02d8f5598baa9bef12801695af4eb1f" title=" " alt="" coords="253,71,453,112"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_sequence_state.html#a180d8df4e8f1c7539d7b52ce0b223d23" title=" " alt="" coords="5,71,205,112"/>
+</map>

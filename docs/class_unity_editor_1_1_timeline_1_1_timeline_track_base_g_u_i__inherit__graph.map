@@ -1,0 +1,8 @@
+<map id="UnityEditor.Timeline.TimelineTrackBaseGUI" name="UnityEditor.Timeline.TimelineTrackBaseGUI">
+<area shape="rect" id="node1" title=" " alt="" coords="112,80,303,121"/>
+<area shape="rect" id="node4" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html" title=" " alt="" coords="5,169,196,211"/>
+<area shape="rect" id="node6" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_error_g_u_i.html" title=" " alt="" coords="220,169,411,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="103,5,203,32"/>
+<area shape="rect" id="node3" href="$interface_unity_editor_1_1_timeline_1_1_i_bounds.html" title=" " alt="" coords="227,5,297,32"/>
+<area shape="rect" id="node5" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_g_u_i.html" title=" " alt="" coords="5,259,196,300"/>
+</map>
